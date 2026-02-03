@@ -25,6 +25,14 @@ jobs:
         with:
           r-version: '4.3'
 
+      - name: Install R packages
+        run: |
+          install.packages(
+            c("rmarkdown", "knitr"),
+            repos = "https://cloud.r-project.org"
+          )
+        shell: Rscript {0}
+
       - name: Render Quarto site
         uses: quarto-dev/quarto-actions/render@v2
 

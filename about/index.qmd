@@ -1,0 +1,183 @@
+---
+title: "Fabio Demaria"
+subtitle: Post-doctoral researcher and lecturer in Statistics
+image: sidebar/avatar.png
+image-alt: "Smiling man with glasses, brown eyes, and short hair and bread"
+about:
+  template: trestles
+  image-width: 14em
+  image-shape: rounded
+  id: hero-heading
+  links:
+    - text: "{{< fa universal-access >}}"
+      aria-label: "Accessibility statement"
+      href: accessibility.qmd
+    - icon: linkedin
+      aria-label: "LinkedIn"
+      href: https://linkedin.com/in/fabio-dema
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/fabiodemaria
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-3686-8712
+    - text: "{{< ai google-scholar >}}"
+      aria-label: "Google Scholar"
+      href: https://scholar.google.com/citations?user=EBWXxXIAAAAJ&hl=it&oi=ao
+    - text: "{{< fa envelope >}}"
+      aria-label: Contact
+      href: fabio.demaria@unimore.it
+listing:
+- id: projects
+  contents: 
+    - "../projects/*/index.qmd"
+    - "../projects/*/index.markdown"
+    - "../projects/external-items/metadata.yml"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, subtitle, image]
+  max-items: 1
+  image-height: "200"
+- id: talk
+  contents: 
+    - "../talk/index.qmd" 
+    - "../talk/*/index.qmd"
+    - "../talk/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, subtitle, image]
+  max-items: 1
+  image-height: "200"
+  image-placeholder: ../talk/placeholder.jpg
+- id: teaching
+  contents: 
+    - "../teaching/*/index.qmd"
+    - "../teaching/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, subtitle, image]
+  max-items: 1
+  image-height: "200"
+- id: research
+  contents: 
+    - "../research/*/index.qmd"
+    - "../research/*/index.markdown"
+  sort: date desc
+  type: grid
+  grid-columns: 1
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, image]
+  max-items: 1
+  image-height: "200"
+  image-placeholder: ../research/featured.png
+format: 
+  html: 
+    page-layout: full
+
+header-includes: >
+  <link rel="stylesheet" href="../assets/about.css">
+resources:
+  - ../assets/about.css
+---
+
+::: {#hero-heading}
+<div class="h1">Hey, I'm happy you're here</div>
+
+I am a Post-doctoral Research Fellow and Adjunct Lecturer in Economic Statistics at the [University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en). My research interests lie at the intersection of **Statistical Learning**, multivariate statistics, and their applications to organizational and social domains.
+
+My current projects explore the Circular Economy through business model innovation and investigate the datafication of work, specifically looking at how digitalization impacts employee well-being and performance. I am passionate about statistical learning tools — from Markov-switching models to Random Forests — to uncover hidden patterns in complex, high-dimensional datasets. Learn more about my latest findings in my [publications](/publication).
+
+Beyond research, I am actively involved in Public Engagement projects like **"Gimme (uni)MORE data"**, which are specifically designed to introduce high school students to the world of statistics.
+
+If you'd like to collaborate or just say hello, feel free to [get in touch](/contact.qmd)—I'm always happy to talk data, methods, and ideas. {{< fa feather-pointed >}}
+
+
+
+
+
+:::
+
+## About me
+
+::: {.grid}
+
+::: {.g-col-6 #about-me-1}
+
+**Economist turned statistician, curious about all intersections of data and society.**
+
+My academic background combines economics, management, and advanced statistical methods. I hold a Ph.D. in Labour, Development and Innovation from the University of Modena and Reggio Emilia, where my research focused on modern statistical learning techniques for high-dimensional data with applications to sustainability in organizations. During my doctoral studies, I was also a visiting scholar at the Department of Mathematics and Statistics at [Cleveland State University](https://www.csuohio.edu).
+I previously earned a Master's degree in International Management summa cum laude, where I conducted an experimental thesis on sustainable food consumption. This interdisciplinary training shapes my approach to data-driven research in economic and social contexts.
+
+<ul class="fa-ul">
+<li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>Ph.D. in Labour, Development and Innovation ∙ University of Modena and Reggio Emilia ∙ 2024</li>
+<li><span class="fa-li"><i class="fa-solid fa-graduation-cap"></i></span>MSc in International Management (ENG) ∙ University of Modena and Reggio Emilia ∙ 2019</li>
+</ul>
+
+:::
+
+::: {.g-col-6 #about-me-2}
+
+I have complemented my academic training with specialized courses and international summer and winter schools focused on advanced quantitative methods and programming. These include intensive training in multilevel and structural equation modeling, as well as hands-on courses in [R](https://www.r-project.org/about.html) and [Python](https://www.python.org), attended at leading institutions such as Universitat Pompeu Fabra and KU Leuven. Together, these experiences have strengthened my methodological toolkit and my ability to apply advanced statistical techniques to complex data.
+
+<ul class="fa-ul">
+<li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a href="https://www.upf.edu/web/survey/2025-summer-methods-school">RECSM Summer School – Multilevel 2</a> ∙ Universitat Pompeu Fabra, Barcelona, Spain ∙ 2022</li>
+<li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a href="https://www.upf.edu/web/survey/2025-summer-methods-school">RECSM Summer School – Introduction to R </a> ∙ Universitat Pompeu Fabra, Barcelona, Spain ∙ 2022</li>
+<li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a href="https://www.upf.edu/web/survey/2025-summer-methods-school">RECSM Summer School – Introduction to Python </a> ∙ Universitat Pompeu Fabra, Barcelona, Spain ∙ 2022</li>
+<li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a
+href="https://www.upf.edu/web/survey/winter-methods-school-2025">RECSM Winter School – Structural Equation Modelling </a> ∙ Universitat Pompeu Fabra, Barcelona, Spain ∙ 2022</li>  
+<li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a
+href="https://www.upf.edu/web/survey/winter-methods-school-2025">EPCR Winter School – Multilevel Modelling </a> ∙ KU Leuven, Leuven, Belgium ∙ 2022</li>  
+</ul>
+
+
+:::
+
+:::
+<!-- end grid -->
+
+## Lately ...
+
+:::: {.grid}
+
+::: {.g-col-3}
+#### Projects
+::: {#projects}
+:::
+[See all &rarr;](../projects){.about-links .subtitle}
+:::
+
+::: {.g-col-3}
+#### Teaching
+::: {#teaching}
+:::
+[See all &rarr;](../teaching){.about-links .subtitle}
+:::
+
+::: {.g-col-3}
+#### Talks
+::: {#talk}
+:::
+[See all &rarr;](../talk){.about-links .subtitle}
+:::
+
+::: {.g-col-3}
+#### Research
+::: {#research}
+:::
+[See all &rarr;](../research){.about-links .subtitle}
+:::
+
+::::

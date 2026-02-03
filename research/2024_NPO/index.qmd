@@ -1,0 +1,39 @@
+---
+title: "Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns"
+
+author: 
+- name: Ulpiana Kocollari
+  orcid: 0000-0003-4643-7673
+- name: Stefano Montanari
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+date: '2023-06-23'
+slug: crowdfunding-lasso
+# image: featured.png
+categories:
+  - book chapter
+  - research 
+  - PhD
+description: 'Crowd-funding campaigns'
+subtitle: This study investigates how hybrid accountability tools and processes influence the funding success of reward-based crowdfunding campaigns , utilizing Lasso regression for feature selection and hierarchical linear regression to identify key predictors of the total amount raised.
+links:
+  - icon: file-richtext-fill
+    name: Publication
+    url:  https://doi.org/10.1007/978-3-031-62530-5_9
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+Hybrid organizations require integrated models and adequate mechanisms to deal with multiple accountability demands that are able to bring a new equilibrium in the trade-offs between their social and economic purposes. Accountability is particularly relevant in the funding process where organizations' stakeholders need to asses value-creation of both economic and social objectives. The aim of this study is to investigate how the development of hybrid accountability tools and processes in reward-based crowdfunding campaigns can foster the funding of hybrid projects and the sizing of their social mission.
+Explorative statistical learning methods were employed to analyse a sample of 200 hybrid projects sourced from the Indiegogo crowdfunding platform. Results identify different impacts of crowdfunding accountability mechanisms that has different effects on the success of the campaign and on the amount raised.
+Results contribute to the individuation of hybrid accountability models that can be used for the funding purposes of the social entrepreneurs engaged in crowdfunding campaigns. These hybridization features are crucial for the scalability of the multi-purposes' projects addressing social problems.
+
+
+## Cite as:
+Kocollari, U., Montanari, S., and Demaria, F. (2024). <span class="paper-title">Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns</span>. In Non-Profit Organisations, Volume II: Economy, Industries and Context. Palgrave Macmillan. [ISBN: 9783031625299]

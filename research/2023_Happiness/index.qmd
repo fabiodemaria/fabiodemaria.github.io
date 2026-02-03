@@ -1,0 +1,37 @@
+---
+title: "The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation"
+author:
+- name: Ulpiana Kocollari
+  orcid: 0000-0003-4643-7673
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+date: '2023-11-21'
+slug: happiness-csrem
+image: featured.png
+categories:
+  - journals
+  - research 
+  - PhD
+description: 'Happiness at work and employee-centric CSR'
+subtitle: The study develops an exploratory and data-driven approach to investigate employee-centric CSR initiatives with the aim of identifying the main drivers that stimulate happiness at work (HAW). 
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1002/csr.2667Digital
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+In recent times, there has been a growing interest in corporate social responsibility (CSR) practices that focus on employees, with an increasing emphasis on investigating employees' experiences of CSR in relation to their happiness. The purpose of this study is to explore employee-centric CSR initiatives with the aim of identifying the elements stimulating happiness at work (HAW). To accomplish this, we adopt a non-linear and data-driven approach to analyze self-reported data from 441 employees across 21 small and medium-sized enterprises spanning various industries. The analysis brings to light 5 E(lements) of employee-centric CSR: envisioning, related to personal and organizational value orientation; equity, related to definition and distribution of rewards; empowerment, related to career development and professional growth; experimentation, related to innovative tasks and organizational forms; and empathy, related to a supportive workplace and coworkers' network. These 5 E(lements) serve as stimuli for HAW in different ways: envisioning, empowerment, and experimentation play a major role in promoting employees' happiness and underscore the importance of initiatives related to shared values, inclusivity, and innovative work practices. Thus, this study sheds light on the influence of employee-centric CSR in promoting HAW and on effective strategies that may contribute to achieving Sustainable Development Goals targets.
+
+
+## Cite as:
+Kocollari U., Cavicchioli M. and Demaria F. (2024). <span class="paper-title">The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation</span>. Corporate Social Responsibility and Environmental Management, 31(3), 1959-1976. doi: 10.1002/csr.2667

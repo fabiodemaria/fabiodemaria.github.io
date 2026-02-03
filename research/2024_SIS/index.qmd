@@ -1,0 +1,36 @@
+---
+title: "Digitalization, work-related risk factors and well-being: importance and interactions from tree-based methods"
+
+author: 
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+date: '2025-02-03'
+slug: digitalization-trees
+# image: featured.png
+categories:
+  - proceedings
+  - research 
+description: 'Employee well-being'
+subtitle: A data-driven investigation of employee well-being using Random Forests. This work was presented at the 52<sup>nd</sup> Scientific Meeting of the Italian Statistical Society (SIS 2024).
+links:
+  - icon: file-richtext-fill
+    name: Publication
+    url: https://dx.doi.org/10.1007/978-3-031-64431-3_94
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+In today's rapidly evolving workplace, the imperative to study workers' well-being has never been more apparent, considering both job-related risk factors and challenges posed by the digital transformation. Utilizing a large dataset from the recent European Working Conditions Telephone Survey (EWCTS) 2021, we explore the impact of physical and psychosocial risk factors on well-being and their interaction with the attributes of new forms of work brought by digitalization. Our methodological framework employs a suite of decision tree-based methods and sophisticated visual tools, designed to extract insights through a non- parametric approach. Findings reveal that increasing physical and emotional exhaustion and the need for recognition are predominant factors affecting employee well-being. Additionally, we find strong links between psychosocial risks, telework, and job locations.
+
+
+
+## Cite as:
+Demaria, F., and Cavicchioli, M. (2024). <span class="paper-title">Digitalization, work-related risk factors and well-being: importance and interactions from tree-based methods</span>. In: Pollice, A., Mariani, P. (eds) Methodological and Applied Statistics and Demography III. SIS 2024. Italian Statistical Society Series on Advances in Statistics. Springer. doi: 10.1007/978-3-031-64431-3_94 [ISBN: 9783031644306]

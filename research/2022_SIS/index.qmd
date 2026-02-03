@@ -1,0 +1,39 @@
+---
+title: "Measuring happiness at work with categorical Principal Component Analysis"
+
+author: 
+- name: Ulpiana Kocollari
+  orcid: 0000-0003-4643-7673
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+date: '2022-06-24'
+slug: haw-catpca
+# image: featured.png
+categories:
+  - proceedings
+  - research 
+  - PhD
+description: 'Happiness At Work (HAW)'
+subtitle: An exploratory study of Happiness At Work (HAW) using Nonlinear Principal Component Analysis. This work was presented at the 51<sup>st</sup> Scientific Meeting of the Italian Statistical Society (SIS 2022).
+links:
+  - icon: file-richtext-fill
+    name: Publication
+    url: https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Sis-2022-4c-low.pdf
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+Despite the large number of contributions on happiness at work, accurate measures are still missing. In this realm, our study investigates the influence of happiness drivers in the workplace, considering the core elements related to both hedonia and eudaimonia, on the most commonly used outcome variable in the management literature that analyses happiness, i.e., the sum of positive feelings. We first explored the drivers of happiness using categorical PCA to find the latent dimensions able to summarize original variability. Then, we analyzed their configuration within a binary regression framework to identify their relative contribution in predicting the probability of employee happiness.
+
+
+
+## Cite as:
+Kocollari, U., Cavicchioli, M., and Demaria, F. (2022). <span class="paper-title">Measuring happiness at work with categorical Principal Component Analysis</span>. In: Balzanella, A., Bini, M., Cavicchia, C., Verde, R. (eds), Book of Short Papers SIS 2022, Pearson. [ISBN: 9788891932310]

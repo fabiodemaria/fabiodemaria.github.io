@@ -1,0 +1,48 @@
+---
+title: "Navigating the post-pandemic era: financial sustainability as a key recovery strategy for luxury brands"
+
+author:
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+date: '2023-06-16'
+slug: luxury-mfa
+# image: featured.png
+categories:
+  - proceedings
+  - research 
+  - PhD
+description: 'Financial sustainability'
+subtitle: An empirical study of Financial sustainability using Multiple Factor Analysis. This work was presented at the European Academy of Management Annual Conference (EURAM2023).
+links:
+#  - icon: file-richtext-fill
+#    name: Publication
+#    url: https://it.pearson.com/content/dam/region-core/italy/pearson-italy/pdf/Docenti/Università/Sis-2022-4c-low.pdf
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+The Covid-19 pandemic has significantly impacted the way business is conducted, posing new
+challenges for organizations to achieve sustainable development. The purpose of this study is
+to identify the key drivers of financial sustainability in the luxury industry that can guide
+recovery strategies in the post-pandemic era. We collected data from the financial statements
+of ten major luxury players, for a five-year period (2017-2021). The organizations’ performance
+was evaluated using 15 financial indicators retrieved from the literature. Then, we employed a
+dimensionality reduction technique, namely Multiple Factor Analysis (MFA), to identify the
+four main strategic dimensions capturing the majority of the original variability. Empirical
+results suggest that the Covid-19 pandemic has most impacted the operational dimension, and
+financial stability may be essential to offset poor economic and operational performances. This
+study provides valuable insights for luxury companies to develop recovery strategies in the
+post-pandemic era and reconcile financial health and operational efficiency to achieve positive
+economic results and contribute to financial sustainability.
+
+
+## Cite as:
+Demaria, F., and Cavicchioli, M. (2023). <span class="paper-title">Navigating the post-pandemic era: financial sustainability as a key recovery strategy for luxury brands</span>. EURAM2023 Conference Proceedings. [ISBN: 9782960219555]

@@ -1,0 +1,35 @@
+---
+title: "Financial sustainability in the luxury industry across the Covid-19 pandemic: lessons from hierarchical methods"
+author:
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+date: '2025-06-09'
+slug: financial-sustainability-qeq
+image: featured.png
+categories:
+  - journals
+  - research 
+  - PhD
+description: 'Financial sustainability in the luxury industry'
+subtitle: This study analyzes the key drivers of financial sustainability in the luxury sector during the 2017–2022 period, applying Hierarchical Multiple Factor Analysis (HMFA) to a set of financial indicators and fitting a mixed-effects model to estimate the market performance of the industry's major players.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1007/s11135-025-02202-x
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+Similar to other sectors, the Covid-19 pandemic has significantly affected the luxury industry, prompting companies to adopt strategies to navigate emerging challenges and address financial difficulties. In light of this, we present a promising approach for investigating the key levers of financial sustainability from a variety of financial indicators. The empirical investigation focuses on the financial performance of major luxury players from 2017 to 2022, starting from the analysis of 20 financial indicators sourced from the literature. Given the multi-layer structure of the data, Hierarchical Multiple Factor Analysis (HMFA) is employed to discern the primary dimensions of financial sustainability over time. Then, mixed-effects model is used to estimate organizations’ stock market performance using the extracted factors, while considering both fixed and random effects. Empirical findings reveal that financial sustainability encompasses four strategic dimensions, with profitability being the main catalyst for enhancing company value and attracting investors' interests. Finally, this novel approach offers a new and integrated method, including metric and graphical tools, to measure corporate financial sustainability and recognize patterns at every level of the hierarchy.
+
+
+## Cite as:
+Demaria, F., and Cavicchioli, M. (2025). <span class="paper-title">Financial sustainability in the luxury industry across the Covid-19 pandemic: lessons from hierarchical methods</span>. Quality & Quantity. doi: 10.1007/s11135-025-02202-x

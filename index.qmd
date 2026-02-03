@@ -1,0 +1,72 @@
+---
+title: "Fabio Demaria, PhD"
+pagetitle: "Fabio Demaria, PhD"
+subtitle: "Post-doc at the University of Modena and Reggio Emilia"
+image: assets/fabio/img/modena_skyline.png
+image-alt: "Abstract data visualization depicting tall buildings in Modena as a circle. The text inside the circle reads Modena Skyline"
+
+twitter-card:
+    title: "Fabio Demaria, PhD"
+    description: "This is my twitter card.
+      I am a post-doctoral researcher, lecturer, and passionate R user."
+    image: assets/fabio/img/fabio-social.png
+
+about:
+  template: solana
+  image-width: 28em
+  id: hero-heading
+  links:
+    - text: "{{< fa universal-access >}}"
+      aria-label: "Accessibility statement"
+      href: accessibility.qmd
+    - icon: twitter
+      aria-label: "X"
+      href: https://x.com/demareal9
+    - icon: linkedin
+      aria-label: "LinkedIn"
+      href: https://linkedin.com/in/fabio-dema
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/fabiodemaria
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-3686-8712
+    - text: "{{< ai google-scholar >}}"
+      aria-label: "Google Scholar"
+      href: https://scholar.google.com/citations?user=EBWXxXIAAAAJ&hl=it&oi=ao
+page-layout: full
+
+execute: 
+  freeze: false
+  echo: false
+  warning: false
+
+header-includes: >
+  <link rel="stylesheet" href="assets/index.css">
+resources:
+  - assets/index.css
+---
+
+<br><br>
+
+::: {#hero-heading}
+I am a post-doctoral researcher, lecturer, and passionate **R** user. My **research** explores statistical learning, multivariate methods, and Markov-switching models to understand complex organizational and sustainability-related phenomena, often working with high-dimensional and imbalanced data. My **teaching** blends statistical theory with hands-on data analysis, aiming to equip students with practical, reproducible, and modern data science skills.
+
+[Learn more about me →](/about){.about-links .subtitle}
+:::
+
+<!-- hero-heading -->
+
+```{r write-manual-redirects}
+#| eval: true
+
+manual_redirects <-
+  readr::read_table(here::here("static", "_manualredirects.txt"),
+                    col_names = FALSE) |> 
+  dplyr::mutate(redirect = paste0(X1, " ", X2, " ", X3))
+
+manual_redirects <- manual_redirects$redirect
+
+# write the _redirect file
+writeLines(manual_redirects, here::here("_site", "_redirects"))
+
+```

@@ -1,0 +1,40 @@
+---
+title: "Gimme (uni)MORE data: workbook to the data challenge"
+
+author: 
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Maria Franco Villoria
+- name: Patrizio Frederic
+- name: Silvia Montagna
+- name: Isabella Morlini
+date: '2025-02-01'
+slug: pe-2024
+# image: featured.png
+categories:
+  - public engagement
+  - workbook
+
+description: 'Statistics for everyone 4.0'
+subtitle: A public engagement activity designed to introduce high school students to statistics.
+links:
+  - icon: file-richtext-fill
+    name: Publication
+    url: https://www.economia.unimore.it/sites/dip05/files/2025-04/Gimme%20uni-more%20data_workbook%20to%20the%20data%20challrnge.pdf
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+This volume provides a practical introduction to data science, guiding high school students through the world of statistics using a familiar and engaging context: the music industry. Leveraging a dataset of over 230,000 tracks extracted via Spotify APIs, the text demonstrates how to transform raw data into strategic insight. Utilizing Microsoft Excel, the educational journey is structured into three key phases: descriptive statistics to summarize audio features (such as tempo and "danceability"), statistical inference to test hypotheses regarding relationships between variables, and linear regression to model the factors driving a song's popularity. The ultimate goal is to equip young citizens with essential analytical skills, proving that statistics is a powerful and versatile tool for decoding contemporary reality.
+
+
+## Cite as:
+Cavicchioli, M., Demaria, F., Franco Villoria, M., Frederic, P., Montagna, S., and Morlini, I. (2025). <span class="paper-title">Gimme (uni)MORE data: workbook to the data challenge</span>. [ISBN: 9788889427071]

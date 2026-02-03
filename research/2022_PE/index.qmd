@@ -1,0 +1,44 @@
+---
+title: "Statistics: the science that models data. An introduction to different data types"
+
+author: 
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Maria Franco Villoria
+- name: Patrizio Frederic
+- name: Isabella Morlini
+date: '2023-02-01'
+slug: pe-2022
+# image: featured.png
+categories:
+  - public engagement
+  - workbook
+
+description: 'Statistics for everyone 2.0'
+subtitle: A public engagement activity designed to introduce high school students to statistics.
+links:
+  - icon: file-richtext-fill
+    name: Publication
+    url: https://www.economia.unimore.it/sites/dip05/files/2024-02/Statistica%20la%20scienza%20che%20modella%20i%20dati.%20Un'introduzione%20alle%20diverse%20tipologie%20di%20dati.pdf
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+If there is one thing that the health emergency following the spread of the coronavirus has highlighted worldwide, it is the centrality and importance of data in monitoring events, understanding dynamics, and making decisions.
+At the same time, the pandemic has accelerated digital transformation and the process of datafication across many spheres of individual and social life for various economic entities. In particular, this datafication process has allowed us to transform aspects of our existence and actions into data. This process consists of collecting, digitizing, and analyzing data to transform it into useful information that, at times, possesses significant economic value.
+The foundational science for data analysis is statistics. Statistical methodologies that convert data into information are applied to various fields of social life: health, food resources, wealth growth and distribution, violence, rights, war, culture, energy consumption, education, environmental change, and more.
+To foster a deeper understanding of other aspects of this discipline, this publication brings together contributions from statistics professors at Unimore, who explain processes and methodologies using simple and direct language.
+The book stems from a Public Engagement initiative promoted by the University of Modena and Reggio Emilia (UNIMORE). It is linked to a previous project which saw the publication of a first volume titled <span class="paper-title">"What is Statistics? A First Introduction to Data Science"</span>. [ISBN: 978-88-89427-03-3].
+This second volume aims to illustrate the importance of statistical science in modeling different types of data—from historical and social data to spatial and environmental data, as well as "big data"—and to share the fundamentals of these models even with younger students, particularly those in the years leading up to university.
+
+
+## Cite as:
+Cavicchioli, M., Demaria, F., Franco Villoria, M., Frederic, P., and Morlini, I. (2023). <span class="paper-title">Statistics: the science that models data. An introduction to different data types</span>. [ISBN: 9788889427040]

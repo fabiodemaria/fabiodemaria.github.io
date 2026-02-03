@@ -1,0 +1,36 @@
+---
+title: "Navigating uncertainty: unveiling the key levers of financial sustainability as a resilience strategy in the luxury industry"
+
+author: 
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+date: '2024-07-10'
+slug: luxury-hmfa
+# image: featured.png
+categories:
+  - proceedings
+  - research 
+  - PhD
+description: 'Employee retention'
+subtitle: An empirical investigation of financial sustainability in the luxury industry using Hierarchical Multiple Factor Analysis (HMFA). This work was presented at the 2<sup>nd</sup> Italian Conference on Economic Statistics (ICES 2024).
+links:
+  - icon: file-richtext-fill
+    name: Publication
+    url: https://iris.unimore.it/handle/11380/1346086
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+The Covid-19 pandemic has significantly altered the luxury industry, requiring new strategies to navigate emerging challenges. Our study focuses on identifying the key levers of financial sustainability and their impact on company performance. We analyzed the financial performance of 12 luxury firms from 2017 to 2022 using 20 financial indicators. We employed Hierarchical Multiple Factor Analysis (HMFA) to discern the primary dimensions of financial sustainability. A linear mixed-effects model further evaluated the influence of these dimensions on organizations’ stock market performance. Empirical findings reveal that financial sustainability encompasses four strategic dimensions, with profitability being the critical factor for successful stock market performance.
+
+
+## Cite as:
+Demaria, F., and Cavicchioli, M. (2024). <span class="paper-title">Navigating uncertainty: unveiling the key levers of financial sustainability as a resilience strategy in the luxury industry</span>. In: Fabrizi E., Giambona F.A., Marini C., Marletta A., Rocca A. (eds), Book of Short Papers 2nd Italian Conference on Economic Statistics (ICES 2024). [ISBN: 9788847629509]

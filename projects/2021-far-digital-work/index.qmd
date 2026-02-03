@@ -1,0 +1,98 @@
+---
+title: "FAR Work datafication and behavioral visibility in the digital workplace"
+author: Fabio Demaria
+date: 2022-01-01
+date-modified: 2024-01-01
+slug: far-digital-work
+image: featured.png
+categories:
+  - research
+  - digital work
+subtitle: "A project that aims to investigate the information contained in the huge amount of data that is now automatically generated, as we work, by digital work environments."
+description: ''
+links:
+- icon: book
+  name: Related publication
+  url: /research/2024_SIS/
+- icon: book
+  name: Related publication
+  url: /research/2025_Stress/
+#- icon: qr-code
+#  name: QR code
+#  url: /project/2025-02-28-nicar-calendar/qr_code.png
+#- icon: github
+#  name: Source code
+#  url: https://github.com/spcanelon/nicar-2025-calendar
+# listing: 
+# - id: blog
+#   contents: 
+#     - "../../blog/*/index.qmd"
+#     - "../../blog/*/index.markdown"
+#   sort: date desc
+#   type: table
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   fields: [title, subtitle]
+#   include:
+#     categories:
+#       - journalism
+# - id: talk
+#   contents: 
+#     - "../../talk/*/index.qmd"
+#     - "../../talk/*/index.markdown"
+#   sort: date desc
+#   type: table
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   fields: [title, subtitle]
+#   include:
+#     categories:
+#       - journalism
+# - id: project
+#   contents: 
+#     - "../../project/*/index.qmd"
+#     - "../../project/*/index.markdown"
+#   sort: date desc
+#   type: table
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   fields: [title, subtitle]
+#   include:
+#     categories:
+#       - journalism
+---
+<i class="bi bi-info-circle"></i> **Type of project**: Institutional <br>
+
+<i class="bi bi-folder2-open"></i> **Field**: SH - Labour and demographic economics; human resource management <br>
+
+<i class="bi bi-clipboard"></i> **Project's Coordinator**: Prof. Tommaso Fabbri <br>
+
+<i class="bi bi-people"></i> **Other participants**: <br>
+– Maddalena Cavicchioli (DEMB, UNIMORE) <br>
+– Fabio Demaria (DEMB, UNIMORE) <br>
+– Federica Mandreoli (DIEF, UNIMORE) <br>
+– Riccardo Martoglia (DIEF, UNIMORE) <br>
+– Anna Chiara Scapolan (DCE, UNIMORE) <br>
+
+<i class="bi bi-coin"></i> **Total project cost**: 60.000 euro<br>
+
+
+
+## Abstract
+Work datafication refers to the ongoing production, by corporate digital workplaces (such as Microsoft Office365), of time-stamped logs of each and every employee's activity (like sending emails, opening files, assigning tasks, setting meetings…). As by-products of workers' behaviors, passively recorded and stored, these meta-data are literally "exhausts" and can be accessed and analyzed to generate data representations of work behaviors and elaborate on them in search for behavioral patterns and statistical inferences about individual, team or organizational performance. This unprecedented availability of data about work behaviors can have a tremendous impact on people management as we know it. However, the reliability of corporate exhaust depends on the percentage of work behaviors that are actually performed inside digital workplaces, and the process by which potentially retrievable information about work behaviors turns into a data representation of an employee that makes that same employee visible to others is not straightforward. As for reliability, now that COVID-19 prompted many organizations to massive remote working, the chances that digital exhausts trace wider portions if not the totality of work behaviors are significantly higher than in the very recent past, allowing for a robust investigation of digital behavioral visibility and its relationships with management. As for work behavioral visibility, we follow Leonardi and Treem (2020) and conceptualize it in critical realist terms [F05] as “sociomaterial performance of behavior”: a data representation of behavior is not the behavior itself and consequently, mechanisms by which organizational behavior becomes actually visible need to be identified and studied. The present aims to do so, by gaining access to one highly digitalized organization's, we will delve into their digital exhausts, search for data representations of employees' attitudes (quantitative research methods) and understand their performative character by investigating how aggregate quantification feedbacks on employees' perception and work behaviors (qualitative research methods). The research will be conducted by an interdisciplinary group of professors active in the fields of organization and HRM, computer science and engineering, and statistics. The group has a consolidated research collaboration on the project topics which started in 2017 thanks to a research grant and which led to a fruitful research agreement with a highly digitalized company that will provide the project reference use case. The expected project impact is twofold: from an industrial point of view, productivity, innovation, knowledge management, occupational well-being can all benefit from the insights concealed inside the exhausts; from a scientific standpoint, understanding how data can be selected and combined into meaningful representations of work behavior is an interdisciplinary challenge that is on the agenda of several public and private companies of our area.
+
+
+## Responsibilities
+<i class="bi bi-person-badge"></i> **Role**: participant <br>
+
+Within this research project, I was responsible for defining the research objectives, coordinating the drafting of scientific papers, and designing the entire methodological framework for data exploration. My core activities included formulating research questions and managing the planning and workflow required to produce scientific publications.
+The initial phase of my empirical work involved cleaning survey data as well as metadata extracted from Microsoft 365, which served as a proxy for digital work behavior. Following this, I conducted the empirical analysis using advanced statistical learning techniques, such as Confirmatory Factor Analysis, Generalized Additive Models, and Random Forests, alongside innovative visualization tools such as network plots and heatmaps. These techniques were applied to address research questions in studies that have since been published in international journals. A preliminary version of these results was presented at the 52nd Scientific Meeting of the Italian Statistical Society (Bari, June 2024).
+
+
+## Scientific production
+Cavicchioli, M., Demaria, F., Nannetti, F., Scapolan, A.C., and Fabbri, T. (2025). <span class="paper-title">Employees' attitudes and work-related stress in the digital workplace: an empirical investigation</span>. Frontiers in Psychology. 16:1546832. doi: 10.3389/fpsyg.2025.1546832 <br>
+
+Demaria, F., and Cavicchioli, M. (2024). <span class="paper-title">Digitalization, work-related risk factors and well-being: importance and interactions from tree-based methods</span>. In: Pollice, A., Mariani, P. (eds) Methodological and Applied Statistics and Demography III. SIS 2024. Italian Statistical Society Series on Advances in Statistics. Springer. doi: 10.1007/978-3-031-64431-3_94 [ISBN: 9783031644306]

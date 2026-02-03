@@ -1,0 +1,43 @@
+---
+title: "Statistics: from process datafication to prediction"
+
+author: 
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Maria Franco Villoria
+- name: Patrizio Frederic
+- name: Maria Cristiana Martini
+- name: Silvia Montagna
+- name: Isabella Morlini
+date: '2024-02-01'
+slug: pe-2023
+# image: featured.png
+categories:
+  - public engagement
+  - workbook
+
+description: 'Statistics for everyone 3.0'
+subtitle: A public engagement activity designed to introduce high school students to statistics.
+links:
+  - icon: file-richtext-fill
+    name: Publication
+    url: https://www.economia.unimore.it/sites/dip05/files/2025-04/Statistica_dalla%20datificazione%20dei%20processi%20alla%20previsione.pdf
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+In the society we live in, information and knowledge have become fundamental; it is increasingly necessary to possess the ability to understand and correctly utilize the vast amount of data and statistics we encounter daily.
+For this reason, acquiring skills in statistics and data literacy while still in school can prove incredibly useful for accurately reading and decoding the world around us, transforming information into knowledge, and making decisions even in times of uncertainty. While graphs and charts make things clearer, one must learn how to "read" them. Therefore, I believe the contribution of the University of Modena and Reggio Emilia—through these two open days for the public (and specifically for students and teachers)—is vital for two reasons: first, these meetings demonstrate how statistics can help us in our daily lives as conscious citizens; second, they provide the tools to understand and interpret the data and information we deal with more and more frequently.
+Today, more than ever, school is the essential environment for the educational growth of citizens and the development of the ability to participate actively in social life. It is the educational space that fosters the cognitive, emotional, and psychomotor development of the new generations—the central place to which we entrust the future of our society. Finally, but no less importantly, I consider the collaboration between the university, the school, and the city to be fundamental.
+
+
+## Cite as:
+Cavicchioli, M., Demaria, F., Franco Villoria, M., Frederic, P., Martini, M. C., Montagna, S., and Morlini, I. (2024). <span class="paper-title">Statistics: from process datafication to prediction</span>. [ISBN: 9788889427057]

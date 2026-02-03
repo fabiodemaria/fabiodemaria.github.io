@@ -1,0 +1,44 @@
+---
+title: "Employees' attitudes and work-related stress in the digital workplace: an empirical investigation"
+author:
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Francesca Nannetti
+- name: Anna Chiara Scapolan
+- name: Tommaso Fabbri
+date: '2025-02-11'
+slug: stress-frontiers
+image: featured.png
+categories:
+  - journal
+  - research 
+
+description: 'Work-related stress in digital workplaces'
+subtitle: This study investigates the relationship between digitalization and work-related stress by analyzing both digital activity metrics and employee attitudes, employing Factor Analysis and Generalized Additive Models (GAM).
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.3389/fpsyg.2025.1546832
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+**Introduction**: In the digital era, the integration of advanced, hyper-connected technologies deeply reshaped work dynamics and organizational practices, especially through the transformation of the spatial and temporal dimensions of work. This study examines the complex relationship between digitalization and work-related stress, with a particular emphasis on the impact of both digital activities (i.e., number of actions and virtual meetings) and employees’ attitudes (i.e., job satisfaction, person-organization fit, engagement, and work-life interface) on stress levels.
+
+**Methods**: Drawing on data from Microsoft 365 activity records and an online survey of employees in an Italian AI firm, this study applies Factor Analysis and Generalized Additive Models to analyze the above-mentioned interactions in a highly digitalized context.
+
+**Results**: Findings indicate that the time–space intensification and extension of the working experience has a significant impact in terms of increasing work-related stress when exceeding certain number of off-hours digital actions and virtual meetings. Conversely, job satisfaction, perceptions of work-life enrichment and person-organization fit represent subjective employees’ attitudes that significantly influence and reduce work-related stress in a digitalized working environment.
+
+**Discussion**: This study contributes to the existing academic literature by providing a more nuanced understanding of the dual impact of work digitalization on employees’ well-being. Furthermore, our findings offer practical insights into the management of employees and their level of stress in digital work settings.
+
+
+## Cite as:
+Cavicchioli, M., Demaria, F., Nannetti, F., Scapolan, A.C., and Fabbri, T. (2025). <span class="paper-title">Employees' attitudes and work-related stress in the digital workplace: an empirical investigation</span>. Frontiers in Psychology. 16:1546832. doi: 10.3389/fpsyg.2025.1546832

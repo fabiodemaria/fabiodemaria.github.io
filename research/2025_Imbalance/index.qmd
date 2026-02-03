@@ -1,0 +1,33 @@
+---
+title: "On feature selection in double-imbalanced data settings: a Random Forest approach"
+author:
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+date: '2025-06-12'
+slug: ibalance-arxiv
+image: featured.png
+categories:
+  - journals
+  - research 
+
+description: 'Feature selection in double-imbalanced settings'
+subtitle: The paper proposes a novel feature selection threshold for Random Forests that addresses "double imbalance" ($ and skewed classes) by adjusting the minimal depth distribution to more accurately identify informative variables.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.48550/arXiv.2506.10929
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+Feature selection is a critical step in high-dimensional classification tasks, particularly under challenging conditions of double imbalance, namely settings characterized by both class imbalance in the response variable and dimensional asymmetry in the data ($n>>p$). In such scenarios, traditional feature selection methods applied to Random Forests (RF) often yield unstable or misleading importance rankings. This paper proposes a novel thresholding scheme for feature selection based on minimal depth, which exploits the tree topology to assess variable relevance. Extensive experiments on simulated and real-world datasets demonstrate that the proposed approach produces more parsimonious and accurate subsets of variables compared to conventional minimal depth-based selection. The method provides a practical and interpretable solution for variable selection in RF under double imbalance conditions.
+
+
+## Cite as:
+Demaria, F. (2025). <span class="paper-title">On feature selection in double-imbalanced data settings: a Random Forest approach</span>. Arxiv. doi: 10.48550/arXiv.2506.10929

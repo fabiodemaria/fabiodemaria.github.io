@@ -1,0 +1,93 @@
+---
+title: "PRIN PNRR Towards Circular Economy: A Business Model Innovation Perspective"
+author: Fabio Demaria
+date: 2023-09-01
+date-modified: 2026-01-30
+slug: prin-circular
+image: featured.png
+categories:
+  - research
+  - circular economy
+subtitle: "Through a mixed-method study of Italian firms, this research investigates the drivers of circular business model innovation, with a specific focus on digitization and managerial practices."
+description: ''
+links:
+# - icon: calendar-week
+#  name: Calendar tool
+#  url: https://tiny.cc/nicar-2025
+#- icon: qr-code
+#  name: QR code
+#  url: /project/2025-02-28-nicar-calendar/qr_code.png
+#- icon: github
+#  name: Source code
+#  url: https://github.com/spcanelon/nicar-2025-calendar
+# listing: 
+# - id: blog
+#   contents: 
+#     - "../../blog/*/index.qmd"
+#     - "../../blog/*/index.markdown"
+#   sort: date desc
+#   type: table
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   fields: [title, subtitle]
+#   include:
+#     categories:
+#       - journalism
+# - id: talk
+#   contents: 
+#     - "../../talk/*/index.qmd"
+#     - "../../talk/*/index.markdown"
+#   sort: date desc
+#   type: table
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   fields: [title, subtitle]
+#   include:
+#     categories:
+#       - journalism
+# - id: project
+#   contents: 
+#     - "../../project/*/index.qmd"
+#     - "../../project/*/index.markdown"
+#   sort: date desc
+#   type: table
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   fields: [title, subtitle]
+#   include:
+#     categories:
+#       - journalism
+---
+<i class="bi bi-info-circle"></i> **Type of project**: National <br>
+
+<i class="bi bi-folder2-open"></i> **Field**: SH - Social Sciences and Humanities <br>
+
+<i class="bi bi-clipboard"></i> **Project's Coordinator**: Università di Modena e Reggio Emilia <br>
+
+<i class="bi bi-people"></i> **Other participants**: <br>
+– Università degli Studi di Bologna <br>
+– Università di Pisa <br>
+– Università "Gabriele D'Annunzio" di Chieti <br>
+– Scuola IMT Alti Studi di Lucca <br>
+
+<i class="bi bi-calendar-range"></i> **Project duration**: 28/09/2023 - 27/09/2025<br>
+
+<i class="bi bi-coin"></i> **Total project cost**: 225.135 euro<br>
+
+
+
+## Abstract
+The circular economy is a paradigmatic change for the economic activity and for people's lifestyles. It responds to a clearly recognized need by civil society to substantially change current practices to ensure continuity and development for the environment and future generations. This research enters the field of the transition to the circular economy and aims to advance our theoretical understanding of the firms’ business model innovation oriented to the circular economy and its drivers, with a particular focus to digitization and managerial practices. The research also has significant implications for firms and policymakers, as it will help highlight which drivers affect the capacity of business models innovation, combining the needs of competitiveness and performance with the growing expectations of sustainability and environmental protection expressed by the civil society. In this view, during 2020 Pandemic environmental problems and climate change became pressure trend that firms must consider as one of the most important objectives to pursue. ESG performance became very important by investors, because data showed that the flow of funds privileged lower environmental and governance risks. So, among the debate about the armonization of ESG standards, there is an open space about how to is developing the passage from traditional Business Model to a new sustainable paradigm more suitable of Circular Economy (Korhonen et al. 2018 and Kirchherr et al., 2017). Inside of that passage, eco-efficiency using environmental variable (Baldarelli, 2017) is considered one of the most important matters to investigate facing future challenges. 
+The research will be conducted by adopting a mixed method which includes a quantitative and then a qualitative study. After having developed the theoretical framework, a rich and articulated database will be built that will allow to connect the economic, financial and environmental performance of firms subject to environmental regulation. The project focuses on Italian companies with the greatest environmental impact. A survey will be employed to investigate relationships between economic and environmental performance, and other parameters related to business model innovation. Subsequent qualitative research, conducted through a multiple case study, will allow to investigate how and why some previously identified drivers affect the innovation capacity of business models oriented towards the circular economy. The results of the quantitative and qualitative research will support the development of a model that will advance our theoretical understanding of the topic and can contribute to the challenges of businesses and civil society in the transition to the circular economy.
+
+## Responsibilities
+<i class="bi bi-person-badge"></i> **Role**: research fellow. <br>
+
+As a dedicated *research fellow* funded by the project, I led the empirical investigation into the drivers of circular economy business models, overseeing the entire analytical lifecycle from data acquisition to scientific dissemination. I coordinated primary data collection through a strategic collaboration with the National Confederation of Crafts and Small and Medium Enterprises (CNA), administering a specialized survey designed to assess circular practices within micro and small enterprises. Subsequently, I processed the dataset and implemented advanced statistical learning models to rigorously address the research hypotheses. This research culminated in the drafting of a scientific manuscript and was formally presented at the 4th International Conference on Economic Statistics "Statistical models for the economic transition: The new challenge in a developing world" (Bari, February 2026).
+
+## Scientific production
+Demaria, F., Correggi, C., Mauro, S.G., Di Toma, P. (2026). Beyond enablers and barriers: A configurational explanation of circular economy adoption in micro and small enterprises. Working paper
+

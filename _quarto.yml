@@ -1,0 +1,105 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Fabio Demaria"
+  site-url: https://fabiodemaria.github.io/
+  description: "Post-doc researcher in Economic Statistics."
+  favicon: assets/fabio/img/logo_rounded.svg
+  page-navigation: true
+  back-to-top-navigation: true
+  twitter-card:
+    creator: "@fabiodemaria"
+    site: "@fabiodemaria"
+    card-style: summary_large_image
+  comments: 
+    utterances: 
+      repo: spcanelon/silvia 
+      label: utterances
+      theme: body-light
+      issue-term: title
+  # search:
+  #   algolia:
+  #     index-name: silviacanelon_com_2nwwu5566h_pages
+  #     application-id: 2NWWU5566H
+  #     search-only-api-key: 4fc205c04b677b0951348a8571b2d7d0
+  #     show-logo: false
+      # index-fields:
+      #   href: url
+      #   title: title
+      #   section: subtitle
+      #   text: body
+ 
+  navbar:
+    logo: assets/fabio/img/logo_rounded.svg
+    # logo: assets/silvia/img/logo_noBg.svg
+    tools:
+    - type: theme-toggle
+    - icon: github
+      href: https://www.github.com/fabiodemaria
+    right:
+      - text: ABOUT
+        aria-label: "About Me"
+        href: about/index.qmd
+      - text: RESEARCH
+        aria-label: "Research"
+        href: research/index.qmd
+      - text: TEACHING
+        aria-label: "Teaching"
+        href: teaching/index.qmd
+#      - text: TALKS
+#        aria-label: "Conferences and Seminars"
+#        href: talk/index.qmd  
+      - text: PROJECTS
+        aria-label: "Research and personal projects"
+        href: projects/index.qmd
+
+  
+  page-footer:  
+    left: >-
+     &#169; 2026 Fabio Demaria &#8729; Made with [Quarto](https://quarto.org)
+    center: |
+      <a class="link-dark me-1" href="/accessibility.html" title="Accessibility commitment" target="_blank" rel="noopener">{{< fa universal-access >}}</a>
+      <a class="link-dark me-1" href="https://linkedin.com/in/fabio-dema" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
+      <a class="link-dark me-1" href="https://github.com/fabiodemaria" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="https://orcid.org/0000-0002-3686-8712" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
+      <a class="link-dark me-1" href="https://scholar.google.com/citations?user=EBWXxXIAAAAJ&hl=it&oi=ao" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
+
+    right: 
+      - text: "Accessibility"
+        aria-label: "Accessibility Commitment"
+        href: accessibility.qmd
+      - text: "Contact"
+        aria-label: "Contact Form"
+        href: "contact.qmd"
+      - text: "License"
+        aria-label: "License Details"
+        href: license.qmd
+      - icon: rss
+        href: blog/index.xml
+
+format: 
+  html:
+    include-in-header:
+      - text: |
+          <link rel="stylesheet"
+                href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+      - assets/fonts.html
+      - assets/fonts-petrona.html
+    theme:
+      light:
+        - cosmo
+        - assets/theme_light.scss
+      dark: 
+        - cosmo
+        - assets/theme_dark.scss
+#    highlight-style:
+#      light: assets/silvia/a11y-light.theme
+#      dark: assets/silvia/a11y-dark.theme
+    code-link: true
+    pagetitle: "{{< meta title >}}"
+    lightbox: true
+
+execute: 
+  freeze: auto

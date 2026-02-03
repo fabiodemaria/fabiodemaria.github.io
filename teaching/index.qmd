@@ -1,0 +1,48 @@
+---
+title: "Teaching"
+description: |
+  Here you can find the basic information about the courses I teach<br>
+  and the student theses I have supervised.<br><br>
+citation: false
+toc: false
+comments: false
+format: 
+  html: 
+    page-layout: full
+title-block-banner: false
+header-includes: >
+  <link rel="stylesheet" href="../assets/listing-default.css">
+resources:
+  - ../assets/listing-default.css 
+include-after-body: ../assets/silvia/subscribe.html
+listing:
+  id: courses-listing
+  contents: 
+    - "**/index.qmd"
+    - "**/index.markdown" 
+    - "**/index.md"
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+  fields: [title, categories, image]
+  image-placeholder: sidebar.jpg
+  image-align: right
+  feed:
+    categories: [R]
+---
+
+## Courses
+
+::: {#courses-listing}
+:::
+
+## Thesis supervision
+Below is a list of theses I have supervised or co-supervised:
+
+- F. Mehmeti (2026), **Demand forecasting and food waste reduction: A data-driven approach applied to the meat industry**, MSc in General Management and Consulting, Department of Economics (UNIMORE).
+- M. Vaccari (2025), **Sustainable investments and financial performance: A comparative empirical analysis between the United States and Italy**, MSc in General Management and Consulting, Department of Economics (UNIMORE).
+- D. Covi (2025), **Young footballers as investment assets for sports clubs: an analysis of market value trends**, MSc in Data Analysis for Economics and Management, Department of Economics (UNIMORE). [co-supervised]
+- F. Alberini (2025), **Sustainability and CSR: Corporate strategies and reporting models in the case of SMEG S.p.a.**, MSc in General Management and Consulting, Department of Economics (UNIMORE).
+- F.P. Giordano (2024), **Financial sustainability and sporting performance in the world of football: An empirical analysis of Serie A clubs**, MSc in General Management and Consulting, Department of Economics (UNIMORE).

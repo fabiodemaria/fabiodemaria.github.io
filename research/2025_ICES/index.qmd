@@ -1,0 +1,39 @@
+---
+title: "A non-parametric approach to employee performance in digital workplaces"
+
+author: 
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+- name: Tommaso Fabbri
+- name: Ariadni Papana Dagiasis
+- name: Anna Chiara Scapolan
+date: '2025-06-12'
+slug: digitalization-rf
+# image: featured.png
+categories:
+  - proceedings
+  - research 
+
+description: 'Work digitalization'
+subtitle: An empirical investigation of work digitalization using non-parametric tree-based methods. This work was presented at the 3<sup>rd</sup> Italian Conference on Economic Statistics (ICES 2025).
+links:
+  - icon: file-richtext-fill
+    name: Publication
+    url: https://iris.unimore.it/handle/11380/1380428
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+The digital transformation has enabled the detailed and real-time datafication of work activities, allowing organizations to analyze and understand digital work performance. This study introduces a data-driven methodology that leverages an unsupervised Random Forest-based algorithm to cluster observations, identify key features using tree topology metrics, and visualize results with optimized graphical tools. We applied the proposed framework to data from a digital consulting agency, incorporating metadata from Microsoft365 and survey responses on work attitudes. The analysis produced a novel metric for digital work performance, which was linked to employee attitudes using tailored visual tools to explore the relationships between work activities and attitudes in digital workplaces.
+
+
+## Cite as:
+Demaria, F., Cavicchioli, M., Fabbri, T., Papana Dagiasis, A., and Scapolan, A.C. (2025). <span class="paper-title">A non-parametric approach to employee performance in digital workplaces</span>. In: Castellano, R., De Luca, G., Bruno, E. (eds), Book of Short Papers 3rd Italian Conference on Economic Statistics (ICES 2025). [ISBN: 9791280655523]

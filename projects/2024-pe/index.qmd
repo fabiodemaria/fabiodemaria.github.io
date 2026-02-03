@@ -1,0 +1,90 @@
+---
+title: "Gimme (uni)MORE data: Accept the data challenge"
+author: Fabio Demaria
+date: 2024-10-01
+date-modified: 2025-10-31
+slug: pe-2024
+image: featured.png
+categories:
+  - third mission
+  - public engagement
+subtitle: "Public engagement initiative designed to bring high school students closer to the field of statistics through workshops and data challenges."
+description: ''
+links:
+- icon: globe2
+  name: Project homepage
+  url: https://www.economia.unimore.it/it/terza-missione/public-engagement
+- icon: book
+  name: Related publication
+  url: /research/2024_PE/
+#- icon: github
+#  name: Source code
+#  url: https://github.com/spcanelon/nicar-2025-calendar
+# listing: 
+# - id: blog
+#   contents: 
+#     - "../../blog/*/index.qmd"
+#     - "../../blog/*/index.markdown"
+#   sort: date desc
+#   type: table
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   fields: [title, subtitle]
+#   include:
+#     categories:
+#       - journalism
+# - id: talk
+#   contents: 
+#     - "../../talk/*/index.qmd"
+#     - "../../talk/*/index.markdown"
+#   sort: date desc
+#   type: table
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   fields: [title, subtitle]
+#   include:
+#     categories:
+#       - journalism
+# - id: project
+#   contents: 
+#     - "../../project/*/index.qmd"
+#     - "../../project/*/index.markdown"
+#   sort: date desc
+#   type: table
+#   categories: false
+#   sort-ui: false
+#   filter-ui: false
+#   fields: [title, subtitle]
+#   include:
+#     categories:
+#       - journalism
+---
+<i class="bi bi-info-circle"></i> **Type of project**: Institutional <br>
+
+<i class="bi bi-folder2-open"></i> **Field**: Third mission <br>
+
+<i class="bi bi-clipboard"></i> **Project's Coordinator**: Università di Modena e Reggio Emilia <br>
+
+<i class="bi bi-people"></i> **Participants**: <br>
+– Silvia Montagna (DEMB, UNIMORE) <br>
+– Maddalena Cavicchioli (DEMB, UNIMORE) <br>
+– Fabio Demaria (DCE, UNIMORE) <br>
+– Maria Villoria Franco (DEMB, UNIMORE) <br>
+– Patrizio Frederic (DEMB, UNIMORE) <br>
+– Isabella Morlini (DCE, UNIMORE) <br>
+
+<i class="bi bi-calendar-range"></i> **Project duration**: 01/10/2024 - 31/03/2025<br>
+
+
+
+## Project description
+This initiative brings the spirit of a hackathon to the world of statistics, consisting of a data challenge aimed at high school students.
+The activity is structured into two morning sessions held at UNIMORE’s Marco Biagi Department of Economics. The first session is educational: students will be guided through data analysis using statistical software in a computer lab. Each student will receive a workbook summarizing the key points of the session, which can serve as a guide for future analyses.
+Participants, divided into teams and working independently, will then compete in a data challenge. They will use the tools they have learned to answer a scientific question based on a real-world problem. In a second meeting, each team will present their analyses and results. The data challenge concludes with an awards ceremony following the presentation of the projects.
+
+
+
+## Scientific production
+Cavicchioli, M., Demaria, F., Franco Villoria, M., Frederic, P., Montagna, S., and Morlini, I. (2025). <span class="paper-title">Gimme (uni)MORE data: workbook to the data challenge</span>. [ISBN: 9788889427071]

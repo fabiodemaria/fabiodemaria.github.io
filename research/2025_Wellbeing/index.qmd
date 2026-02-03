@@ -1,0 +1,35 @@
+---
+title: "Employees' well-being, work-related factors, and digitalization: a decision-tree approach for imbalanced data"
+author:
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+date: '2025-07-10'
+slug: wellbeing-anor
+image: featured.png
+categories:
+  - journals
+  - research 
+
+description: 'Financial sustainability in the luxury industry'
+subtitle: This study proposes a novel methodological framework based on Random Forests (RF) -- specifically designed for class imbalance -- to identify key work-related factors influencing employee well-being and their complex interactions with digital work aspects across 12 European countries.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1007/s10479-025-06702-9
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+The rapid digital transformation of workplaces requires a comprehensive understanding of its implications for employee well-being, particularly regarding work-related factors and digital work challenges. Using data from the 2021 European Working Conditions Telephone Survey (EWCTS) across 12 European countries, we propose a novel methodological framework based on Random Forests (RF), specifically designed for class imbalance scenarios. The framework integrates multiple imputation for missing values, a density-based classifier, feature selection and interaction analysis based on tree topology, and optimized visualization tools. Our methodology combines supervised and unsupervised RF-based methods to identify key work-related factors influencing employee well-being and their relationships with digital work aspects. The results highlight psychosocial factors, particularly exhaustion, as predominant determinants of well-being, with recognition and engagement serving as mitigating influences. Feature interaction analysis underscores the critical role of telework intensity, revealing links to both negative outcomes (emotional exhaustion) and positive dimensions (work-life balance), demonstrating the complex relationship between well-being and digital work. Furthermore, a significant association exists between work-life balance and telework intensity, emphasizing the importance of time management in employees’ lives. This study advances both methodology, by introducing a novel RF-based approach for class imbalance problems, and theory, by identifying key work-related factors affecting employee well-being and their connection to digital work characteristics.
+
+
+## Cite as:
+Demaria, F., and Cavicchioli, M. (2025). <span class="paper-title">Employees' well-being, work-related factors, and digitalization: a decision-tree approach for imbalanced data</span>. Annals of Operations Research. doi: 10.1007/s10479-025-06702-9

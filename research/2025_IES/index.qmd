@@ -1,0 +1,39 @@
+---
+title: "Measuring supply chain sustainability: a structured multilevel framework"
+
+author: 
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Federico Bertacchini
+  orcid: 0000-0001-7933-2961
+- name: Ulpiana Kocollari
+  orcid: 0000-0003-4643-7673
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+date: '2025-06-27'
+slug: sustainability-svd
+# image: featured.png
+categories:
+  - proceedings
+  - research 
+description: 'Supply chain sustainability'
+subtitle: A methodological framework grounded on hierarchical Singular Value Decomposition (SVD) to measure supply chain sustainability. This work was presented at conference Innovation and Society Statistics and Data Science for Evaluation and Quality (IES 2025).
+links:
+  - icon: file-richtext-fill
+    name: Publication
+    url: https://ies2025.sis-statistica.it/book-of-short-paper/
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+The increasing emphasis on sustainability in corporate operations necessitates robust methodologies for assessing supply chain performance across economic, social, and environmental dimensions. This study proposes a hierarchical principal component analysis (PCA) approach to evaluate the sustainability of supply chains, accommodating the structured nature of data spanning multiple levels. The methodology employs singular value decomposition (SVD) to extract latent structures iteratively, ensuring balanced contributions and preserving the hierarchical structure of the dataset The proposed approach is applied to a dataset of 1,508 firms operating in the meat industry within the Emilia-Romagna region in northern Italy. Results indicate that the proposed method effectively captures sustainability variations across supply chain stages and time periods. This study contributes to the field of sustainable supply chain management by providing a methodological framework that enhances the interpretation of structured data.
+
+
+## Cite as:
+Demaria, F., Bertacchini, F., Kocollari, U., and Cavicchioli, M. (2025). <span class="paper-title">Measuring supply chain sustainability: a structured multilevel framework</span>. In: Boccuzzo, G., Bovo, E., Manisera, M., Salmaso, L. (eds), Book of Short Papers IES 2025 – Innovation & Society: Statistics and Data Science for Evaluation and Quality. Cleup s.c. [ISBN: 9788854958494]

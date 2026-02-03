@@ -48,9 +48,9 @@ website:
       - text: TEACHING
         aria-label: "Teaching"
         href: teaching/index.qmd
-#      - text: TALKS
-#        aria-label: "Conferences and Seminars"
-#        href: talk/index.qmd  
+      - text: TALKS
+        aria-label: "Conferences and Seminars"
+        href: talk/index.qmd  
       - text: PROJECTS
         aria-label: "Research and personal projects"
         href: projects/index.qmd

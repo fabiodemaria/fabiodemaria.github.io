@@ -1,0 +1,626 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Research Publications - Fabio Demaria</title>
+<link>https://fabiodemaria.github.io/research/#category=research</link>
+<atom:link href="https://fabiodemaria.github.io/research/index-research.xml" rel="self" type="application/rss+xml"/>
+<description>Latest research publications and preprints</description>
+<image>
+<url>https://fabiodemaria.github.io/featured.jpg</url>
+<title>Research Publications - Fabio Demaria</title>
+<link>https://fabiodemaria.github.io/research/#category=research</link>
+</image>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Thu, 10 Jul 2025 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Employees’ well-being, work-related factors, and digitalization: a decision-tree approach for imbalanced data</title>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2025_Wellbeing/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The rapid digital transformation of workplaces requires a comprehensive understanding of its implications for employee well-being, particularly regarding work-related factors and digital work challenges. Using data from the 2021 European Working Conditions Telephone Survey (EWCTS) across 12 European countries, we propose a novel methodological framework based on Random Forests (RF), specifically designed for class imbalance scenarios. The framework integrates multiple imputation for missing values, a density-based classifier, feature selection and interaction analysis based on tree topology, and optimized visualization tools. Our methodology combines supervised and unsupervised RF-based methods to identify key work-related factors influencing employee well-being and their relationships with digital work aspects. The results highlight psychosocial factors, particularly exhaustion, as predominant determinants of well-being, with recognition and engagement serving as mitigating influences. Feature interaction analysis underscores the critical role of telework intensity, revealing links to both negative outcomes (emotional exhaustion) and positive dimensions (work-life balance), demonstrating the complex relationship between well-being and digital work. Furthermore, a significant association exists between work-life balance and telework intensity, emphasizing the importance of time management in employees’ lives. This study advances both methodology, by introducing a novel RF-based approach for class imbalance problems, and theory, by identifying key work-related factors affecting employee well-being and their connection to digital work characteristics.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Demaria, F., and Cavicchioli, M. (2025). <span class="paper-title">Employees’ well-being, work-related factors, and digitalization: a decision-tree approach for imbalanced data</span>. Annals of Operations Research. doi: 10.1007/s10479-025-06702-9</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>journals</category>
+  <category>research</category>
+  <guid>https://fabiodemaria.github.io/research/2025_Wellbeing/</guid>
+  <pubDate>Thu, 10 Jul 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/2025_Wellbeing/featured.png" medium="image" type="image/png" height="67" width="144"/>
+</item>
+<item>
+  <title>Measuring supply chain sustainability: a structured multilevel framework</title>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Federico Bertacchini</dc:creator>
+  <dc:creator>Ulpiana Kocollari</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2025_IES/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The increasing emphasis on sustainability in corporate operations necessitates robust methodologies for assessing supply chain performance across economic, social, and environmental dimensions. This study proposes a hierarchical principal component analysis (PCA) approach to evaluate the sustainability of supply chains, accommodating the structured nature of data spanning multiple levels. The methodology employs singular value decomposition (SVD) to extract latent structures iteratively, ensuring balanced contributions and preserving the hierarchical structure of the dataset The proposed approach is applied to a dataset of 1,508 firms operating in the meat industry within the Emilia-Romagna region in northern Italy. Results indicate that the proposed method effectively captures sustainability variations across supply chain stages and time periods. This study contributes to the field of sustainable supply chain management by providing a methodological framework that enhances the interpretation of structured data.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Demaria, F., Bertacchini, F., Kocollari, U., and Cavicchioli, M. (2025). <span class="paper-title">Measuring supply chain sustainability: a structured multilevel framework</span>. In: Boccuzzo, G., Bovo, E., Manisera, M., Salmaso, L. (eds), Book of Short Papers IES 2025 – Innovation &amp; Society: Statistics and Data Science for Evaluation and Quality. Cleup s.c. [ISBN: 9788854958494]</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>proceedings</category>
+  <category>research</category>
+  <guid>https://fabiodemaria.github.io/research/2025_IES/</guid>
+  <pubDate>Fri, 27 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Hidden Patterns of Corporate Reputation in Sustainable Supply Chains: A Switching Perspective</title>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <dc:creator>Ulpiana Kocollari</dc:creator>
+  <dc:creator>Federico Bertacchini</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2025_SIS/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The assessment of sustainability within supply chains has become essential for performance measurement and risk mitigation. While prior research emphasizes transparency in social and environmental impacts, a more comprehensive approach is needed to balance economic, social, and environmental objectives. This study examines corporate reputation within supply chains as an outcome of sustainability performance, assessed through Triple Bottom Line (TBL) indicators. Using a hidden Markov switching decision tree model, we identify latent states that serve as proxies for corporate reputation, modeled through state-dependent tree structures. Our findings reveal two distinct reputation states: one prioritizing environmental and financial factors, and another emphasizing technological innovation and sustainability.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Demaria, F., Cavicchioli, M., Kocollari, U., and Bertacchini, F. (2025). <span class="paper-title">Hidden Patterns of Corporate Reputation in Sustainable Supply Chains: A Switching Perspective</span>. In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin S. (eds), Statistics for Innovation II. SIS 2025. Italian Statistical Society Series on Advances in Statistics. Springer. doi: 10.1007/978-3-031-96303-2 [ISBN: 9783031963025]</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>proceedings</category>
+  <category>research</category>
+  <guid>https://fabiodemaria.github.io/research/2025_SIS/</guid>
+  <pubDate>Mon, 16 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>A non-parametric approach to employee performance in digital workplaces</title>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <dc:creator>Tommaso Fabbri</dc:creator>
+  <dc:creator>Ariadni Papana Dagiasis</dc:creator>
+  <dc:creator>Anna Chiara Scapolan</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2025_ICES/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The digital transformation has enabled the detailed and real-time datafication of work activities, allowing organizations to analyze and understand digital work performance. This study introduces a data-driven methodology that leverages an unsupervised Random Forest-based algorithm to cluster observations, identify key features using tree topology metrics, and visualize results with optimized graphical tools. We applied the proposed framework to data from a digital consulting agency, incorporating metadata from Microsoft365 and survey responses on work attitudes. The analysis produced a novel metric for digital work performance, which was linked to employee attitudes using tailored visual tools to explore the relationships between work activities and attitudes in digital workplaces.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Demaria, F., Cavicchioli, M., Fabbri, T., Papana Dagiasis, A., and Scapolan, A.C. (2025). <span class="paper-title">A non-parametric approach to employee performance in digital workplaces</span>. In: Castellano, R., De Luca, G., Bruno, E. (eds), Book of Short Papers 3rd Italian Conference on Economic Statistics (ICES 2025). [ISBN: 9791280655523]</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>proceedings</category>
+  <category>research</category>
+  <guid>https://fabiodemaria.github.io/research/2025_ICES/</guid>
+  <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>On feature selection in double-imbalanced data settings: a Random Forest approach</title>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2025_Imbalance/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Feature selection is a critical step in high-dimensional classification tasks, particularly under challenging conditions of double imbalance, namely settings characterized by both class imbalance in the response variable and dimensional asymmetry in the data (<img src="https://latex.codecogs.com/png.latex?n%3E%3Ep">). In such scenarios, traditional feature selection methods applied to Random Forests (RF) often yield unstable or misleading importance rankings. This paper proposes a novel thresholding scheme for feature selection based on minimal depth, which exploits the tree topology to assess variable relevance. Extensive experiments on simulated and real-world datasets demonstrate that the proposed approach produces more parsimonious and accurate subsets of variables compared to conventional minimal depth-based selection. The method provides a practical and interpretable solution for variable selection in RF under double imbalance conditions.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Demaria, F. (2025). <span class="paper-title">On feature selection in double-imbalanced data settings: a Random Forest approach</span>. Arxiv. doi: 10.48550/arXiv.2506.10929</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>journals</category>
+  <category>research</category>
+  <guid>https://fabiodemaria.github.io/research/2025_Imbalance/</guid>
+  <pubDate>Thu, 12 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/2025_Imbalance/featured.png" medium="image" type="image/png" height="83" width="144"/>
+</item>
+<item>
+  <title>Financial sustainability in the luxury industry across the Covid-19 pandemic: lessons from hierarchical methods</title>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2025_Luxury/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Similar to other sectors, the Covid-19 pandemic has significantly affected the luxury industry, prompting companies to adopt strategies to navigate emerging challenges and address financial difficulties. In light of this, we present a promising approach for investigating the key levers of financial sustainability from a variety of financial indicators. The empirical investigation focuses on the financial performance of major luxury players from 2017 to 2022, starting from the analysis of 20 financial indicators sourced from the literature. Given the multi-layer structure of the data, Hierarchical Multiple Factor Analysis (HMFA) is employed to discern the primary dimensions of financial sustainability over time. Then, mixed-effects model is used to estimate organizations’ stock market performance using the extracted factors, while considering both fixed and random effects. Empirical findings reveal that financial sustainability encompasses four strategic dimensions, with profitability being the main catalyst for enhancing company value and attracting investors’ interests. Finally, this novel approach offers a new and integrated method, including metric and graphical tools, to measure corporate financial sustainability and recognize patterns at every level of the hierarchy.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Demaria, F., and Cavicchioli, M. (2025). <span class="paper-title">Financial sustainability in the luxury industry across the Covid-19 pandemic: lessons from hierarchical methods</span>. Quality &amp; Quantity. doi: 10.1007/s11135-025-02202-x</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>journals</category>
+  <category>research</category>
+  <category>PhD</category>
+  <guid>https://fabiodemaria.github.io/research/2025_Luxury/</guid>
+  <pubDate>Mon, 09 Jun 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/2025_Luxury/featured.png" medium="image" type="image/png" height="71" width="144"/>
+</item>
+<item>
+  <title>Time after time: exploring the role of CSR on employees’ long-lasting working relationships in Italy</title>
+  <dc:creator>Ulpiana Kocollari</dc:creator>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2025_Retention/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Recent research has focused on the employee’s perspective in experiencing Corporate Social Responsibility (CSR) strategies. The purpose of this work is to empirically investigate the drivers of employees’ long-lasting working relationships when CSR strategies are in place. A sample of 441 employees across 21 small and medium-sized enterprises (SMEs) spanning various industries in Italy is surveyed to collect data on CSR-related experiences. Then, dimensionality reduction techniques and nonlinear models are applied to self-reported data. The empirical analysis reveals the following: (i) at the individual level, intrinsic CSR initiatives are of major importance; (ii) at the organizational level, sudden changes in perceived leadership hit negatively, especially during crises; and (iii) at the intermediate level, promoting happiness at work (HAW) enhances CSR strategies, creating favorable conditions even for dissatisfied workers. Therefore, the investigation enriches the CSR micro-foundation literature by examining the role of multifaceted layers in implementing CSR strategies in SMEs. In turn, this brings important implications for managers dealing with the phenomenon of the “great resignation.”</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Kocollari, U., Demaria, F., and Cavicchioli, M. (2025). <span class="paper-title">Time after time: exploring the role of CSR on employees’ long-lasting working relationships in Italy</span>. Small Business Economics, 65, 995–1021. doi: 10.1007/s11187-025-01019-0</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>journals</category>
+  <category>research</category>
+  <category>PhD</category>
+  <guid>https://fabiodemaria.github.io/research/2025_Retention/</guid>
+  <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/2025_Retention/featured.png" medium="image" type="image/png" height="82" width="144"/>
+</item>
+<item>
+  <title>Employees’ attitudes and work-related stress in the digital workplace: an empirical investigation</title>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Francesca Nannetti</dc:creator>
+  <dc:creator>Anna Chiara Scapolan</dc:creator>
+  <dc:creator>Tommaso Fabbri</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2025_Stress/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p><strong>Introduction</strong>: In the digital era, the integration of advanced, hyper-connected technologies deeply reshaped work dynamics and organizational practices, especially through the transformation of the spatial and temporal dimensions of work. This study examines the complex relationship between digitalization and work-related stress, with a particular emphasis on the impact of both digital activities (i.e., number of actions and virtual meetings) and employees’ attitudes (i.e., job satisfaction, person-organization fit, engagement, and work-life interface) on stress levels.</p>
+<p><strong>Methods</strong>: Drawing on data from Microsoft 365 activity records and an online survey of employees in an Italian AI firm, this study applies Factor Analysis and Generalized Additive Models to analyze the above-mentioned interactions in a highly digitalized context.</p>
+<p><strong>Results</strong>: Findings indicate that the time–space intensification and extension of the working experience has a significant impact in terms of increasing work-related stress when exceeding certain number of off-hours digital actions and virtual meetings. Conversely, job satisfaction, perceptions of work-life enrichment and person-organization fit represent subjective employees’ attitudes that significantly influence and reduce work-related stress in a digitalized working environment.</p>
+<p><strong>Discussion</strong>: This study contributes to the existing academic literature by providing a more nuanced understanding of the dual impact of work digitalization on employees’ well-being. Furthermore, our findings offer practical insights into the management of employees and their level of stress in digital work settings.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Cavicchioli, M., Demaria, F., Nannetti, F., Scapolan, A.C., and Fabbri, T. (2025). <span class="paper-title">Employees’ attitudes and work-related stress in the digital workplace: an empirical investigation</span>. Frontiers in Psychology. 16:1546832. doi: 10.3389/fpsyg.2025.1546832</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>journal</category>
+  <category>research</category>
+  <guid>https://fabiodemaria.github.io/research/2025_Stress/</guid>
+  <pubDate>Tue, 11 Feb 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/2025_Stress/featured.png" medium="image" type="image/png" height="93" width="144"/>
+</item>
+<item>
+  <title>Digitalization, work-related risk factors and well-being: importance and interactions from tree-based methods</title>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2024_SIS/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>In today’s rapidly evolving workplace, the imperative to study workers’ well-being has never been more apparent, considering both job-related risk factors and challenges posed by the digital transformation. Utilizing a large dataset from the recent European Working Conditions Telephone Survey (EWCTS) 2021, we explore the impact of physical and psychosocial risk factors on well-being and their interaction with the attributes of new forms of work brought by digitalization. Our methodological framework employs a suite of decision tree-based methods and sophisticated visual tools, designed to extract insights through a non- parametric approach. Findings reveal that increasing physical and emotional exhaustion and the need for recognition are predominant factors affecting employee well-being. Additionally, we find strong links between psychosocial risks, telework, and job locations.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Demaria, F., and Cavicchioli, M. (2024). <span class="paper-title">Digitalization, work-related risk factors and well-being: importance and interactions from tree-based methods</span>. In: Pollice, A., Mariani, P. (eds) Methodological and Applied Statistics and Demography III. SIS 2024. Italian Statistical Society Series on Advances in Statistics. Springer. doi: 10.1007/978-3-031-64431-3_94 [ISBN: 9783031644306]</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>proceedings</category>
+  <category>research</category>
+  <guid>https://fabiodemaria.github.io/research/2024_SIS/</guid>
+  <pubDate>Mon, 03 Feb 2025 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Navigating uncertainty: unveiling the key levers of financial sustainability as a resilience strategy in the luxury industry</title>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2024_ICES/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The Covid-19 pandemic has significantly altered the luxury industry, requiring new strategies to navigate emerging challenges. Our study focuses on identifying the key levers of financial sustainability and their impact on company performance. We analyzed the financial performance of 12 luxury firms from 2017 to 2022 using 20 financial indicators. We employed Hierarchical Multiple Factor Analysis (HMFA) to discern the primary dimensions of financial sustainability. A linear mixed-effects model further evaluated the influence of these dimensions on organizations’ stock market performance. Empirical findings reveal that financial sustainability encompasses four strategic dimensions, with profitability being the critical factor for successful stock market performance.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Demaria, F., and Cavicchioli, M. (2024). <span class="paper-title">Navigating uncertainty: unveiling the key levers of financial sustainability as a resilience strategy in the luxury industry</span>. In: Fabrizi E., Giambona F.A., Marini C., Marletta A., Rocca A. (eds), Book of Short Papers 2nd Italian Conference on Economic Statistics (ICES 2024). [ISBN: 9788847629509]</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>proceedings</category>
+  <category>research</category>
+  <category>PhD</category>
+  <guid>https://fabiodemaria.github.io/research/2024_ICES/</guid>
+  <pubDate>Wed, 10 Jul 2024 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation</title>
+  <dc:creator>Ulpiana Kocollari</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2023_Happiness/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>In recent times, there has been a growing interest in corporate social responsibility (CSR) practices that focus on employees, with an increasing emphasis on investigating employees’ experiences of CSR in relation to their happiness. The purpose of this study is to explore employee-centric CSR initiatives with the aim of identifying the elements stimulating happiness at work (HAW). To accomplish this, we adopt a non-linear and data-driven approach to analyze self-reported data from 441 employees across 21 small and medium-sized enterprises spanning various industries. The analysis brings to light 5 E(lements) of employee-centric CSR: envisioning, related to personal and organizational value orientation; equity, related to definition and distribution of rewards; empowerment, related to career development and professional growth; experimentation, related to innovative tasks and organizational forms; and empathy, related to a supportive workplace and coworkers’ network. These 5 E(lements) serve as stimuli for HAW in different ways: envisioning, empowerment, and experimentation play a major role in promoting employees’ happiness and underscore the importance of initiatives related to shared values, inclusivity, and innovative work practices. Thus, this study sheds light on the influence of employee-centric CSR in promoting HAW and on effective strategies that may contribute to achieving Sustainable Development Goals targets.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Kocollari U., Cavicchioli M. and Demaria F. (2024). <span class="paper-title">The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation</span>. Corporate Social Responsibility and Environmental Management, 31(3), 1959-1976. doi: 10.1002/csr.2667</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>journals</category>
+  <category>research</category>
+  <category>PhD</category>
+  <guid>https://fabiodemaria.github.io/research/2023_Happiness/</guid>
+  <pubDate>Tue, 21 Nov 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/2023_Happiness/featured.png" medium="image" type="image/png" height="83" width="144"/>
+</item>
+<item>
+  <title>Staying or leaving? A nonlinear framework to explore the role of employee well-being on retention</title>
+  <dc:creator>Ulpiana Kocollari</dc:creator>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2023_SIS/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Employee well-being has gained the attention of scholars and practitioners over the past two decades. However, despite the increasing number of theoretical works on the topic, empirical studies are still limited. In this study, we aim to define the well-being construct through an exploratory and data-driven approach, and examine its impact on employee retention. We first used a nonlinear dimensionality reduction technique for categorical variables to identify the four main dimensions of work-related well-being. Then, we analyzed these dimensions in a fractional regression framework to predict employee retention. The empirical results suggest that the most significant aspects that discourage employee turnover are related to career growth opportunities, job satisfaction, and interpersonal relationships among coworkers.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Kocollari, U., Cavicchioli, M., and Demaria, F. (2023). <span class="paper-title">Staying or leaving? A nonlinear framework to explore the role of employee well-being on retention</span>. In: Chelli, F.M., Ciommi, M., Ingrassia, S., Mariani F., Recchioni, M.C. (eds), Book of Short Papers SIS 2023, Pearson. [ISBN: 9788891935618]</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>proceedings</category>
+  <category>research</category>
+  <category>PhD</category>
+  <guid>https://fabiodemaria.github.io/research/2023_SIS/</guid>
+  <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns</title>
+  <dc:creator>Ulpiana Kocollari</dc:creator>
+  <dc:creator>Stefano Montanari</dc:creator>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2024_NPO/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Hybrid organizations require integrated models and adequate mechanisms to deal with multiple accountability demands that are able to bring a new equilibrium in the trade-offs between their social and economic purposes. Accountability is particularly relevant in the funding process where organizations’ stakeholders need to asses value-creation of both economic and social objectives. The aim of this study is to investigate how the development of hybrid accountability tools and processes in reward-based crowdfunding campaigns can foster the funding of hybrid projects and the sizing of their social mission. Explorative statistical learning methods were employed to analyse a sample of 200 hybrid projects sourced from the Indiegogo crowdfunding platform. Results identify different impacts of crowdfunding accountability mechanisms that has different effects on the success of the campaign and on the amount raised. Results contribute to the individuation of hybrid accountability models that can be used for the funding purposes of the social entrepreneurs engaged in crowdfunding campaigns. These hybridization features are crucial for the scalability of the multi-purposes’ projects addressing social problems.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Kocollari, U., Montanari, S., and Demaria, F. (2024). <span class="paper-title">Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns</span>. In Non-Profit Organisations, Volume II: Economy, Industries and Context. Palgrave Macmillan. [ISBN: 9783031625299]</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>book chapter</category>
+  <category>research</category>
+  <category>PhD</category>
+  <guid>https://fabiodemaria.github.io/research/2024_NPO/</guid>
+  <pubDate>Fri, 23 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Navigating the post-pandemic era: financial sustainability as a key recovery strategy for luxury brands</title>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2022_EURAM/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The Covid-19 pandemic has significantly impacted the way business is conducted, posing new challenges for organizations to achieve sustainable development. The purpose of this study is to identify the key drivers of financial sustainability in the luxury industry that can guide recovery strategies in the post-pandemic era. We collected data from the financial statements of ten major luxury players, for a five-year period (2017-2021). The organizations’ performance was evaluated using 15 financial indicators retrieved from the literature. Then, we employed a dimensionality reduction technique, namely Multiple Factor Analysis (MFA), to identify the four main strategic dimensions capturing the majority of the original variability. Empirical results suggest that the Covid-19 pandemic has most impacted the operational dimension, and financial stability may be essential to offset poor economic and operational performances. This study provides valuable insights for luxury companies to develop recovery strategies in the post-pandemic era and reconcile financial health and operational efficiency to achieve positive economic results and contribute to financial sustainability.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Demaria, F., and Cavicchioli, M. (2023). <span class="paper-title">Navigating the post-pandemic era: financial sustainability as a key recovery strategy for luxury brands</span>. EURAM2023 Conference Proceedings. [ISBN: 9782960219555]</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>proceedings</category>
+  <category>research</category>
+  <category>PhD</category>
+  <guid>https://fabiodemaria.github.io/research/2022_EURAM/</guid>
+  <pubDate>Fri, 16 Jun 2023 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Measuring happiness at work with categorical Principal Component Analysis</title>
+  <dc:creator>Ulpiana Kocollari</dc:creator>
+  <dc:creator>Maddalena Cavicchioli</dc:creator>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2022_SIS/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Despite the large number of contributions on happiness at work, accurate measures are still missing. In this realm, our study investigates the influence of happiness drivers in the workplace, considering the core elements related to both hedonia and eudaimonia, on the most commonly used outcome variable in the management literature that analyses happiness, i.e., the sum of positive feelings. We first explored the drivers of happiness using categorical PCA to find the latent dimensions able to summarize original variability. Then, we analyzed their configuration within a binary regression framework to identify their relative contribution in predicting the probability of employee happiness.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Kocollari, U., Cavicchioli, M., and Demaria, F. (2022). <span class="paper-title">Measuring happiness at work with categorical Principal Component Analysis</span>. In: Balzanella, A., Bini, M., Cavicchia, C., Verde, R. (eds), Book of Short Papers SIS 2022, Pearson. [ISBN: 9788891932310]</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>proceedings</category>
+  <category>research</category>
+  <category>PhD</category>
+  <guid>https://fabiodemaria.github.io/research/2022_SIS/</guid>
+  <pubDate>Fri, 24 Jun 2022 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/featured.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Technological Sustainability or Sustainable Technology? A Multidimensional Vision of Sustainability in Manufacturing</title>
+  <dc:creator>Marco Vacchi</dc:creator>
+  <dc:creator>Cristina Siligardi</dc:creator>
+  <dc:creator>Fabio Demaria</dc:creator>
+  <dc:creator>Erika Iveth Cedillo-González</dc:creator>
+  <dc:creator>Rocío González-Sánchez</dc:creator>
+  <dc:creator>Davide Settembre-Blundo</dc:creator>
+  <link>https://fabiodemaria.github.io/research/2021_Sustainability/</link>
+  <description><![CDATA[ 
+
+
+<!-- source: https://github.com/gadenbuie/garrickadenbuie-com/blob/main/_partials/title-block-link-buttons/title-block.html -->
+<!-- 
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title"> 
+-->
+<!-- <header id="title-block-header" class="quarto-title-block default page-columns"> -->
+<!-- <div class="quarto-title page-columns page-full featured-image p-4" style="background-image: url(featured.png), url(featured.jpg), url(../featured.jpg);"> -->
+
+
+
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>The topic of sustainability is becoming one of the strongest drivers of change in the marketplace by transforming into an element of competitiveness and an integral part of business strategy. Particularly in the manufacturing sector, a key role is played by technological innovations that allow companies to minimize the impact of their business on the environment and contribute to enhancing the value of the societies in which they operate. Technological process can be a lever to generate sustainable behaviors, confirming how innovation and sustainability constitute an increasingly close pair. However, it emerges that the nature of this relationship is explored by researchers and considered by practitioners almost exclusively in terms of the degree of sustainability of technological solutions. Lacking is an in-depth exploration of how a product or process, in addition to being environmentally and socio-economically sustainable, must or can also be technologically sustainable. This research therefore aims to build a theoretical foundation for technological sustainability seen as a possible fourth dimension of sustainable development.</p>
+</section>
+<section id="cite-as" class="level2">
+<h2 class="anchored" data-anchor-id="cite-as">Cite as:</h2>
+<p>Vacchi, M., Siligardi, C., Demaria, F., Cedillo-González, E., González-Sánchez, R., and Settembre-Blundo, D. (2021). <span class="paper-title">Technological Sustainability or Sustainable Technology? A Multidimensional Vision of Sustainability in Manufacturing</span>. Sustainability, 13(17), 9942. doi: 10.3390/su13179942</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a> ]]></description>
+  <category>journal</category>
+  <category>research</category>
+  <category>PhD</category>
+  <guid>https://fabiodemaria.github.io/research/2021_Sustainability/</guid>
+  <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
+  <media:content url="https://fabiodemaria.github.io/research/2021_Sustainability/featured.png" medium="image" type="image/png" height="66" width="144"/>
+</item>
+</channel>
+</rss>

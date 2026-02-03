@@ -60,11 +60,11 @@ website:
     left: >-
      &#169; 2026 Fabio Demaria &#8729; Made with [Quarto](https://quarto.org)
     center: |
-      <a class="link-dark me-1" href="/accessibility.html" title="Accessibility commitment" target="_blank" rel="noopener">{{< fa universal-access >}}</a>
-      <a class="link-dark me-1" href="https://linkedin.com/in/fabio-dema" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
-      <a class="link-dark me-1" href="https://github.com/fabiodemaria" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
       <a class="link-dark me-1" href="https://orcid.org/0000-0002-3686-8712" title="orcid" target="_blank" rel="noopener">{{< ai orcid >}}</a>
       <a class="link-dark me-1" href="https://scholar.google.com/citations?user=EBWXxXIAAAAJ&hl=it&oi=ao" title="Google Scholar" target="_blank"rel="noopener">{{< ai google-scholar >}}</a>
+      <a class="link-dark me-1" href="https://github.com/fabiodemaria" title="github" target="_blank" rel="noopener">{{< fa brands github >}}</a>
+      <a class="link-dark me-1" href="https://linkedin.com/in/fabio-dema" title="LinkedIn" target="_blank" rel="noopener">{{< fa brands linkedin >}}</a>
+      <a class="link-dark me-1" href="/accessibility.html" title="Accessibility commitment" target="_blank" rel="noopener">{{< fa universal-access >}}</a>
 
     right: 
       - text: "Accessibility"
@@ -77,7 +77,7 @@ website:
         aria-label: "License Details"
         href: license.qmd
       - icon: rss
-        href: blog/index.xml
+        href: research/index.xml
 
 format: 
   html:

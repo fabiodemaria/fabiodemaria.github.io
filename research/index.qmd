@@ -17,6 +17,11 @@ listing:
   image-align: left
   # image-height: 10em
   # page-size: 5
+  feed:
+    title: "Research Publications - Fabio Demaria"
+    description: "Latest research publications and preprints"
+    items: 20
+    categories: [research]
 
 format: 
   html: 
@@ -27,4 +32,5 @@ header-includes: >
   <link rel="stylesheet" href="../assets/listing-default.css">
 resources:
   - ../assets/listing-default.css
+
 ---

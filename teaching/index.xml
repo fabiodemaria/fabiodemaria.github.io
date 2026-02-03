@@ -11,8 +11,8 @@
 <description>Here you can find the basic information about the courses I teach&lt;br&gt;
 and the student theses I have supervised.&lt;br&gt;&lt;br&gt;
 </description>
-<generator>quarto-1.8.25</generator>
-<lastBuildDate>Wed, 31 Dec 2025 23:00:00 GMT</lastBuildDate>
+<generator>quarto-1.8.27</generator>
+<lastBuildDate>Thu, 01 Jan 2026 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Data Analytics for Management</title>
   <dc:creator>Fabio Demaria</dc:creator>
@@ -109,7 +109,7 @@ and the student theses I have supervised.&lt;br&gt;&lt;br&gt;
   <category>Courses</category>
   <category>Master</category>
   <guid>https://fabiodemaria.github.io/teaching/adm/</guid>
-  <pubDate>Wed, 31 Dec 2025 23:00:00 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
   <media:content url="https://fabiodemaria.github.io/teaching/adm/featured.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 <item>
@@ -196,7 +196,7 @@ and the student theses I have supervised.&lt;br&gt;&lt;br&gt;
   <category>Courses</category>
   <category>Bachelor</category>
   <guid>https://fabiodemaria.github.io/teaching/glm/</guid>
-  <pubDate>Wed, 31 Dec 2025 23:00:00 GMT</pubDate>
+  <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
   <media:content url="https://fabiodemaria.github.io/teaching/glm/featured.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 <item>
@@ -296,7 +296,7 @@ and the student theses I have supervised.&lt;br&gt;&lt;br&gt;
   <category>Courses</category>
   <category>Master</category>
   <guid>https://fabiodemaria.github.io/teaching/slpd/</guid>
-  <pubDate>Sat, 31 Dec 2022 23:00:00 GMT</pubDate>
+  <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
   <media:content url="https://fabiodemaria.github.io/teaching/slpd/featured.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 <item>
@@ -378,7 +378,7 @@ and the student theses I have supervised.&lt;br&gt;&lt;br&gt;
   <category>Courses</category>
   <category>Master</category>
   <guid>https://fabiodemaria.github.io/teaching/intro/</guid>
-  <pubDate>Fri, 31 Dec 2021 23:00:00 GMT</pubDate>
+  <pubDate>Sat, 01 Jan 2022 00:00:00 GMT</pubDate>
   <media:content url="https://fabiodemaria.github.io/teaching/intro/featured.png" medium="image" type="image/png" height="96" width="144"/>
 </item>
 </channel>

@@ -16,23 +16,23 @@ about:
   image-width: 28em
   id: hero-heading
   links:
-    - text: "{{< fa universal-access >}}"
-      aria-label: "Accessibility statement"
-      href: accessibility.qmd
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-3686-8712
+    - text: "{{< ai google-scholar >}}"
+      aria-label: "Google Scholar"
+      href: https://scholar.google.com/citations?user=EBWXxXIAAAAJ&hl=it&oi=ao
+    - icon: github
+      aria-label: GitHub
+      href: https://github.com/fabiodemaria
     - icon: twitter
       aria-label: "X"
       href: https://x.com/demareal9
     - icon: linkedin
       aria-label: "LinkedIn"
       href: https://linkedin.com/in/fabio-dema
-    - icon: github
-      aria-label: GitHub
-      href: https://github.com/fabiodemaria
-    - text: "{{< ai orcid >}}"
-      href: https://orcid.org/0000-0002-3686-8712
-    - text: "{{< ai google-scholar >}}"
-      aria-label: "Google Scholar"
-      href: https://scholar.google.com/citations?user=EBWXxXIAAAAJ&hl=it&oi=ao
+    - text: "{{< fa universal-access >}}"
+      aria-label: "Accessibility statement"
+      href: accessibility.qmd
 page-layout: full
 
 execute: 

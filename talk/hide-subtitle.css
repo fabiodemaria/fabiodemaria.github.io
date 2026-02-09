@@ -1,0 +1,12 @@
+/* Nascondi il subtitle solo in questa pagina */
+.quarto-title-block .quarto-title-meta {
+  display: none;
+}
+
+.description.lead {
+  display: none;
+}
+
+p.subtitle.lead {
+  display: none;
+}

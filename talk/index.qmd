@@ -1,5 +1,6 @@
 ---
 title: "Talks"
+subtitle: "Latest talks at international and national conferences, workshops, and seminars"
 image: placeholder.jpg
 description: |
   This section collects invited and contributed talks delivered at international<br>
@@ -8,6 +9,7 @@ description: |
 format: 
   html: 
     page-layout: full
+    css: hide-subtitle.css
 title-block-banner: false
 header-includes: >
   <link rel="stylesheet" href="../assets/listing-default.css">
@@ -18,6 +20,8 @@ resources:
 
 ## Conferences
 Below is a list of the talks delivered at conferences:
+
+•  SMEA2026 – 4th International Conference on Economic Statistics. University of Bari (Bari). [05/02 -- 06/02/2026]
 
 •  1st Joint International Conference of The Journal of International Accounting, Auditing & Taxation and The Journal of Management and Governance. University of Cagliari (Cagliari). [26/09 -- 27/09/2025]
 

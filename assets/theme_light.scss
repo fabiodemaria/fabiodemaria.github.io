@@ -231,6 +231,21 @@ td code:not(.sourceCode) {
   }
 }
 
+/* Resize logo */
+.navbar-logo {
+  max-height: 35px !important;
+  width: auto !important;
+  height: auto !important;
+  object-fit: contain;
+  margin-right: 1.2rem;
+}
+
+/* Define logo container size */
+.navbar-brand {
+  padding: 0.5rem;
+  overflow: visible !important;
+}
+
 /* ===============================
    Cards
    =============================== */

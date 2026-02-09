@@ -6,7 +6,7 @@ website:
   title: "Fabio Demaria"
   site-url: https://fabiodemaria.github.io/
   description: "Post-doc researcher in Economic Statistics."
-  favicon: assets/fabio/img/logo_rounded.svg
+  favicon: assets/fabio/img/logo_light.svg
   page-navigation: true
   back-to-top-navigation: true
   twitter-card:
@@ -15,7 +15,7 @@ website:
     card-style: summary_large_image
   comments: 
     utterances: 
-      repo: spcanelon/silvia 
+      repo: fabiodemaria/fabiodemaria.github.io 
       label: utterances
       theme: body-light
       issue-term: title
@@ -32,8 +32,9 @@ website:
       #   text: body
  
   navbar:
-    logo: assets/fabio/img/logo_rounded.svg
-    # logo: assets/silvia/img/logo_noBg.svg
+    logo:
+      light: assets/fabio/img/logo_light.svg
+      dark: assets/fabio/img/logo_dark.svg
     tools:
     - type: theme-toggle
     - icon: github

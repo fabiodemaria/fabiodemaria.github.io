@@ -96,7 +96,7 @@ resources:
 ::: {#hero-heading}
 <div class="h1">Hey, I'm happy you're here</div>
 
-I am a Post-doctoral Research Fellow and Adjunct Lecturer in Economic Statistics at the [University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en). My research interests lie at the intersection of **Statistical Learning**, multivariate statistics, and their applications to organizational and social domains.
+I am a Post-doctoral Research Fellow and Adjunct Lecturer in Economic Statistics at the [University of Modena and Reggio Emilia (UNIMORE)](https://www.unimore.it/en). My research interests lie at the intersection of **Statistical Learning**, multivariate statistics, and their applications to organizational and social domains (my [CV)](cv.pdf).
 
 My current projects explore the Circular Economy through business model innovation and investigate the datafication of work, specifically looking at how digitalization impacts employee well-being and performance. I am passionate about statistical learning tools — from Markov-switching models to Random Forests — to uncover hidden patterns in complex, high-dimensional datasets. Learn more about my latest findings in my [publications](/publication).
 

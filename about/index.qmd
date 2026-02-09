@@ -6,7 +6,7 @@ image-alt: "Smiling man with glasses, brown eyes, and short hair and bread"
 about:
   template: trestles
   image-width: 14em
-  image-shape: rounded
+  image-shape: round
   id: hero-heading
   links:
     - text: "{{< ai orcid >}}"

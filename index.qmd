@@ -51,7 +51,7 @@ resources:
 ::: {#hero-heading}
 I am a post-doctoral researcher, lecturer, and passionate **R** user. My **research** explores statistical learning, multivariate methods, and Markov-switching models to understand complex organizational and sustainability-related phenomena, often working with high-dimensional and imbalanced data. My **teaching** blends statistical theory with hands-on data analysis, aiming to equip students with practical, reproducible, and modern data science skills.
 
-[Learn more about me →](/about){.about-links .subtitle}
+[More about me →](/about){.about-links .subtitle}
 :::
 
 <!-- hero-heading -->

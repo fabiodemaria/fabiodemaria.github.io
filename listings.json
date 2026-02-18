@@ -9,22 +9,6 @@
     ]
   },
   {
-    "listing": "/projects/index.html",
-    "items": [
-      "/projects/2023-prin-circular-economy/index.html",
-      "/projects/2024-pe/index.html",
-      "/projects/2021-far-digital-work/index.html"
-    ]
-  },
-  {
-    "listing": "/projects/index-CONFLICT-1.html",
-    "items": [
-      "/projects/2023-prin-circular-economy/index.html",
-      "/projects/2024-pe/index.html",
-      "/projects/2021-far-digital-work/index.html"
-    ]
-  },
-  {
     "listing": "/research/index.html",
     "items": [
       "/research/2025_Wellbeing/index.html",
@@ -46,6 +30,22 @@
       "/research/2022_PE/index.html",
       "/research/2022_SIS/index.html",
       "/research/2021_Sustainability/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index-CONFLICT-1.html",
+    "items": [
+      "/projects/2023-prin-circular-economy/index.html",
+      "/projects/2024-pe/index.html",
+      "/projects/2021-far-digital-work/index.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/2023-prin-circular-economy/index.html",
+      "/projects/2024-pe/index.html",
+      "/projects/2021-far-digital-work/index.html"
     ]
   },
   {

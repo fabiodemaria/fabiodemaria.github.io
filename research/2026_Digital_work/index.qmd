@@ -1,0 +1,39 @@
+---
+title: "Behind the screen: A comprehensive framework for digital work metrics and data integration"
+author:
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Ariadni Papana Dagiasis
+  orcid: 0009-0002-5889-8960
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+- name: Tommaso Fabbri
+  orcid: 0000-0001-7140-7519
+date: '2026-04-27'
+slug: digitalwork-seps
+image: featured.png
+categories:
+  - journals
+  - research 
+
+description: 'Measuring digital work behavior in digital workplaces'
+subtitle: Data-driven framework for the analysis of digital work behavior based on tree-based learning, composite indicators, and visual tools.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1016/j.seps.2026.102496
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+The digital transformation and the subsequent datafication of work generate rich electronic traces that can be transformed into actionable insights through modern analytics. In this context, this study proposes a data-driven framework that leverages sidClustering and unsupervised Random Forest (RF) for clustering and feature selection, constructs composite indicators via multiple aggregation strategies, and employs visual tools to enhance the interpretability of results. A key feature of the framework is the integration of two data sources: click metadata from Microsoft 365 and employee attitudes measured through a questionnaire. This integration enables the analysis of digital work behavior (DWB) in relation to employee sentiment. We apply the framework to a highly digitalized Italian consulting company. The analysis identifies two employee clusters, ‘Operational’ and ‘Coordination’, and yields two synthetic digital work metrics, work Quantity and Complexity. Overall, the study introduces a scalable methodological framework that combines tree-based learning, composite indicators, and visual tools, representing one of the first empirical integrations of digital work metadata with employee attitudes. The resulting indicators offer early-warning capabilities for assessing the impact of technology adoption on employee outcomes and provide decision support for HR analytics and policy.
+
+
+## Cite as:
+Demaria, F., Papana Dagiasis, A., Cavicchioli, M., and Fabbri, T. (2026). <span class="paper-title">Behind the screen: A comprehensive framework for digital work metrics and data integration</span>. Socio-Economic Planning Sciences. doi: 10.1016/j.seps.2026.102496. 

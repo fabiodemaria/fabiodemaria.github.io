@@ -315,109 +315,46 @@
     "text": "Cite as:\nDemaria, F., Cavicchioli, M., Kocollari, U., and Bertacchini, F. (2025). Hidden Patterns of Corporate Reputation in Sustainable Supply Chains: A Switching Perspective. In: di Bella, E., Gioia, V., Lagazio, C., Zaccarin S. (eds), Statistics for Innovation II. SIS 2025. Italian Statistical Society Series on Advances in Statistics. Springer. doi: 10.1007/978-3-031-96303-2 [ISBN: 9783031963025]"
   },
   {
-    "objectID": "research/2024_NPO/index.html",
-    "href": "research/2024_NPO/index.html",
-    "title": "Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns",
+    "objectID": "research/2026_Digital_work/index.html",
+    "href": "research/2026_Digital_work/index.html",
+    "title": "Behind the screen: A comprehensive framework for digital work metrics and data integration",
     "section": "",
-    "text": "Hybrid organizations require integrated models and adequate mechanisms to deal with multiple accountability demands that are able to bring a new equilibrium in the trade-offs between their social and economic purposes. Accountability is particularly relevant in the funding process where organizations’ stakeholders need to asses value-creation of both economic and social objectives. The aim of this study is to investigate how the development of hybrid accountability tools and processes in reward-based crowdfunding campaigns can foster the funding of hybrid projects and the sizing of their social mission. Explorative statistical learning methods were employed to analyse a sample of 200 hybrid projects sourced from the Indiegogo crowdfunding platform. Results identify different impacts of crowdfunding accountability mechanisms that has different effects on the success of the campaign and on the amount raised. Results contribute to the individuation of hybrid accountability models that can be used for the funding purposes of the social entrepreneurs engaged in crowdfunding campaigns. These hybridization features are crucial for the scalability of the multi-purposes’ projects addressing social problems."
+    "text": "The digital transformation and the subsequent datafication of work generate rich electronic traces that can be transformed into actionable insights through modern analytics. In this context, this study proposes a data-driven framework that leverages sidClustering and unsupervised Random Forest (RF) for clustering and feature selection, constructs composite indicators via multiple aggregation strategies, and employs visual tools to enhance the interpretability of results. A key feature of the framework is the integration of two data sources: click metadata from Microsoft 365 and employee attitudes measured through a questionnaire. This integration enables the analysis of digital work behavior (DWB) in relation to employee sentiment. We apply the framework to a highly digitalized Italian consulting company. The analysis identifies two employee clusters, ‘Operational’ and ‘Coordination’, and yields two synthetic digital work metrics, work Quantity and Complexity. Overall, the study introduces a scalable methodological framework that combines tree-based learning, composite indicators, and visual tools, representing one of the first empirical integrations of digital work metadata with employee attitudes. The resulting indicators offer early-warning capabilities for assessing the impact of technology adoption on employee outcomes and provide decision support for HR analytics and policy."
   },
   {
-    "objectID": "research/2024_NPO/index.html#abstract",
-    "href": "research/2024_NPO/index.html#abstract",
-    "title": "Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns",
+    "objectID": "research/2026_Digital_work/index.html#abstract",
+    "href": "research/2026_Digital_work/index.html#abstract",
+    "title": "Behind the screen: A comprehensive framework for digital work metrics and data integration",
     "section": "",
-    "text": "Hybrid organizations require integrated models and adequate mechanisms to deal with multiple accountability demands that are able to bring a new equilibrium in the trade-offs between their social and economic purposes. Accountability is particularly relevant in the funding process where organizations’ stakeholders need to asses value-creation of both economic and social objectives. The aim of this study is to investigate how the development of hybrid accountability tools and processes in reward-based crowdfunding campaigns can foster the funding of hybrid projects and the sizing of their social mission. Explorative statistical learning methods were employed to analyse a sample of 200 hybrid projects sourced from the Indiegogo crowdfunding platform. Results identify different impacts of crowdfunding accountability mechanisms that has different effects on the success of the campaign and on the amount raised. Results contribute to the individuation of hybrid accountability models that can be used for the funding purposes of the social entrepreneurs engaged in crowdfunding campaigns. These hybridization features are crucial for the scalability of the multi-purposes’ projects addressing social problems."
+    "text": "The digital transformation and the subsequent datafication of work generate rich electronic traces that can be transformed into actionable insights through modern analytics. In this context, this study proposes a data-driven framework that leverages sidClustering and unsupervised Random Forest (RF) for clustering and feature selection, constructs composite indicators via multiple aggregation strategies, and employs visual tools to enhance the interpretability of results. A key feature of the framework is the integration of two data sources: click metadata from Microsoft 365 and employee attitudes measured through a questionnaire. This integration enables the analysis of digital work behavior (DWB) in relation to employee sentiment. We apply the framework to a highly digitalized Italian consulting company. The analysis identifies two employee clusters, ‘Operational’ and ‘Coordination’, and yields two synthetic digital work metrics, work Quantity and Complexity. Overall, the study introduces a scalable methodological framework that combines tree-based learning, composite indicators, and visual tools, representing one of the first empirical integrations of digital work metadata with employee attitudes. The resulting indicators offer early-warning capabilities for assessing the impact of technology adoption on employee outcomes and provide decision support for HR analytics and policy."
   },
   {
-    "objectID": "research/2024_NPO/index.html#cite-as",
-    "href": "research/2024_NPO/index.html#cite-as",
-    "title": "Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns",
+    "objectID": "research/2026_Digital_work/index.html#cite-as",
+    "href": "research/2026_Digital_work/index.html#cite-as",
+    "title": "Behind the screen: A comprehensive framework for digital work metrics and data integration",
     "section": "Cite as:",
-    "text": "Cite as:\nKocollari, U., Montanari, S., and Demaria, F. (2024). Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns. In Non-Profit Organisations, Volume II: Economy, Industries and Context. Palgrave Macmillan. [ISBN: 9783031625299]"
+    "text": "Cite as:\nDemaria, F., Papana Dagiasis, A., Cavicchioli, M., and Fabbri, T. (2026). Behind the screen: A comprehensive framework for digital work metrics and data integration. Socio-Economic Planning Sciences. doi: 10.1016/j.seps.2026.102496."
   },
   {
-    "objectID": "research/2025_ICES/index.html",
-    "href": "research/2025_ICES/index.html",
-    "title": "A non-parametric approach to employee performance in digital workplaces",
+    "objectID": "research/2022_SIS/index.html",
+    "href": "research/2022_SIS/index.html",
+    "title": "Measuring happiness at work with categorical Principal Component Analysis",
     "section": "",
-    "text": "The digital transformation has enabled the detailed and real-time datafication of work activities, allowing organizations to analyze and understand digital work performance. This study introduces a data-driven methodology that leverages an unsupervised Random Forest-based algorithm to cluster observations, identify key features using tree topology metrics, and visualize results with optimized graphical tools. We applied the proposed framework to data from a digital consulting agency, incorporating metadata from Microsoft365 and survey responses on work attitudes. The analysis produced a novel metric for digital work performance, which was linked to employee attitudes using tailored visual tools to explore the relationships between work activities and attitudes in digital workplaces."
+    "text": "Despite the large number of contributions on happiness at work, accurate measures are still missing. In this realm, our study investigates the influence of happiness drivers in the workplace, considering the core elements related to both hedonia and eudaimonia, on the most commonly used outcome variable in the management literature that analyses happiness, i.e., the sum of positive feelings. We first explored the drivers of happiness using categorical PCA to find the latent dimensions able to summarize original variability. Then, we analyzed their configuration within a binary regression framework to identify their relative contribution in predicting the probability of employee happiness."
   },
   {
-    "objectID": "research/2025_ICES/index.html#abstract",
-    "href": "research/2025_ICES/index.html#abstract",
-    "title": "A non-parametric approach to employee performance in digital workplaces",
+    "objectID": "research/2022_SIS/index.html#abstract",
+    "href": "research/2022_SIS/index.html#abstract",
+    "title": "Measuring happiness at work with categorical Principal Component Analysis",
     "section": "",
-    "text": "The digital transformation has enabled the detailed and real-time datafication of work activities, allowing organizations to analyze and understand digital work performance. This study introduces a data-driven methodology that leverages an unsupervised Random Forest-based algorithm to cluster observations, identify key features using tree topology metrics, and visualize results with optimized graphical tools. We applied the proposed framework to data from a digital consulting agency, incorporating metadata from Microsoft365 and survey responses on work attitudes. The analysis produced a novel metric for digital work performance, which was linked to employee attitudes using tailored visual tools to explore the relationships between work activities and attitudes in digital workplaces."
+    "text": "Despite the large number of contributions on happiness at work, accurate measures are still missing. In this realm, our study investigates the influence of happiness drivers in the workplace, considering the core elements related to both hedonia and eudaimonia, on the most commonly used outcome variable in the management literature that analyses happiness, i.e., the sum of positive feelings. We first explored the drivers of happiness using categorical PCA to find the latent dimensions able to summarize original variability. Then, we analyzed their configuration within a binary regression framework to identify their relative contribution in predicting the probability of employee happiness."
   },
   {
-    "objectID": "research/2025_ICES/index.html#cite-as",
-    "href": "research/2025_ICES/index.html#cite-as",
-    "title": "A non-parametric approach to employee performance in digital workplaces",
+    "objectID": "research/2022_SIS/index.html#cite-as",
+    "href": "research/2022_SIS/index.html#cite-as",
+    "title": "Measuring happiness at work with categorical Principal Component Analysis",
     "section": "Cite as:",
-    "text": "Cite as:\nDemaria, F., Cavicchioli, M., Fabbri, T., Papana Dagiasis, A., and Scapolan, A.C. (2025). A non-parametric approach to employee performance in digital workplaces. In: Castellano, R., De Luca, G., Bruno, E. (eds), Book of Short Papers 3rd Italian Conference on Economic Statistics (ICES 2025). [ISBN: 9791280655523]"
-  },
-  {
-    "objectID": "research/2025_Stress/index.html",
-    "href": "research/2025_Stress/index.html",
-    "title": "Employees’ attitudes and work-related stress in the digital workplace: an empirical investigation",
-    "section": "",
-    "text": "Introduction: In the digital era, the integration of advanced, hyper-connected technologies deeply reshaped work dynamics and organizational practices, especially through the transformation of the spatial and temporal dimensions of work. This study examines the complex relationship between digitalization and work-related stress, with a particular emphasis on the impact of both digital activities (i.e., number of actions and virtual meetings) and employees’ attitudes (i.e., job satisfaction, person-organization fit, engagement, and work-life interface) on stress levels.\nMethods: Drawing on data from Microsoft 365 activity records and an online survey of employees in an Italian AI firm, this study applies Factor Analysis and Generalized Additive Models to analyze the above-mentioned interactions in a highly digitalized context.\nResults: Findings indicate that the time–space intensification and extension of the working experience has a significant impact in terms of increasing work-related stress when exceeding certain number of off-hours digital actions and virtual meetings. Conversely, job satisfaction, perceptions of work-life enrichment and person-organization fit represent subjective employees’ attitudes that significantly influence and reduce work-related stress in a digitalized working environment.\nDiscussion: This study contributes to the existing academic literature by providing a more nuanced understanding of the dual impact of work digitalization on employees’ well-being. Furthermore, our findings offer practical insights into the management of employees and their level of stress in digital work settings."
-  },
-  {
-    "objectID": "research/2025_Stress/index.html#abstract",
-    "href": "research/2025_Stress/index.html#abstract",
-    "title": "Employees’ attitudes and work-related stress in the digital workplace: an empirical investigation",
-    "section": "",
-    "text": "Introduction: In the digital era, the integration of advanced, hyper-connected technologies deeply reshaped work dynamics and organizational practices, especially through the transformation of the spatial and temporal dimensions of work. This study examines the complex relationship between digitalization and work-related stress, with a particular emphasis on the impact of both digital activities (i.e., number of actions and virtual meetings) and employees’ attitudes (i.e., job satisfaction, person-organization fit, engagement, and work-life interface) on stress levels.\nMethods: Drawing on data from Microsoft 365 activity records and an online survey of employees in an Italian AI firm, this study applies Factor Analysis and Generalized Additive Models to analyze the above-mentioned interactions in a highly digitalized context.\nResults: Findings indicate that the time–space intensification and extension of the working experience has a significant impact in terms of increasing work-related stress when exceeding certain number of off-hours digital actions and virtual meetings. Conversely, job satisfaction, perceptions of work-life enrichment and person-organization fit represent subjective employees’ attitudes that significantly influence and reduce work-related stress in a digitalized working environment.\nDiscussion: This study contributes to the existing academic literature by providing a more nuanced understanding of the dual impact of work digitalization on employees’ well-being. Furthermore, our findings offer practical insights into the management of employees and their level of stress in digital work settings."
-  },
-  {
-    "objectID": "research/2025_Stress/index.html#cite-as",
-    "href": "research/2025_Stress/index.html#cite-as",
-    "title": "Employees’ attitudes and work-related stress in the digital workplace: an empirical investigation",
-    "section": "Cite as:",
-    "text": "Cite as:\nCavicchioli, M., Demaria, F., Nannetti, F., Scapolan, A.C., and Fabbri, T. (2025). Employees’ attitudes and work-related stress in the digital workplace: an empirical investigation. Frontiers in Psychology. 16:1546832. doi: 10.3389/fpsyg.2025.1546832"
-  },
-  {
-    "objectID": "research/2021_Sustainability/index.html",
-    "href": "research/2021_Sustainability/index.html",
-    "title": "Technological Sustainability or Sustainable Technology? A Multidimensional Vision of Sustainability in Manufacturing",
-    "section": "",
-    "text": "The topic of sustainability is becoming one of the strongest drivers of change in the marketplace by transforming into an element of competitiveness and an integral part of business strategy. Particularly in the manufacturing sector, a key role is played by technological innovations that allow companies to minimize the impact of their business on the environment and contribute to enhancing the value of the societies in which they operate. Technological process can be a lever to generate sustainable behaviors, confirming how innovation and sustainability constitute an increasingly close pair. However, it emerges that the nature of this relationship is explored by researchers and considered by practitioners almost exclusively in terms of the degree of sustainability of technological solutions. Lacking is an in-depth exploration of how a product or process, in addition to being environmentally and socio-economically sustainable, must or can also be technologically sustainable. This research therefore aims to build a theoretical foundation for technological sustainability seen as a possible fourth dimension of sustainable development."
-  },
-  {
-    "objectID": "research/2021_Sustainability/index.html#abstract",
-    "href": "research/2021_Sustainability/index.html#abstract",
-    "title": "Technological Sustainability or Sustainable Technology? A Multidimensional Vision of Sustainability in Manufacturing",
-    "section": "",
-    "text": "The topic of sustainability is becoming one of the strongest drivers of change in the marketplace by transforming into an element of competitiveness and an integral part of business strategy. Particularly in the manufacturing sector, a key role is played by technological innovations that allow companies to minimize the impact of their business on the environment and contribute to enhancing the value of the societies in which they operate. Technological process can be a lever to generate sustainable behaviors, confirming how innovation and sustainability constitute an increasingly close pair. However, it emerges that the nature of this relationship is explored by researchers and considered by practitioners almost exclusively in terms of the degree of sustainability of technological solutions. Lacking is an in-depth exploration of how a product or process, in addition to being environmentally and socio-economically sustainable, must or can also be technologically sustainable. This research therefore aims to build a theoretical foundation for technological sustainability seen as a possible fourth dimension of sustainable development."
-  },
-  {
-    "objectID": "research/2021_Sustainability/index.html#cite-as",
-    "href": "research/2021_Sustainability/index.html#cite-as",
-    "title": "Technological Sustainability or Sustainable Technology? A Multidimensional Vision of Sustainability in Manufacturing",
-    "section": "Cite as:",
-    "text": "Cite as:\nVacchi, M., Siligardi, C., Demaria, F., Cedillo-González, E., González-Sánchez, R., and Settembre-Blundo, D. (2021). Technological Sustainability or Sustainable Technology? A Multidimensional Vision of Sustainability in Manufacturing. Sustainability, 13(17), 9942. doi: 10.3390/su13179942"
-  },
-  {
-    "objectID": "research/2023_Happiness/index.html",
-    "href": "research/2023_Happiness/index.html",
-    "title": "The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation",
-    "section": "",
-    "text": "In recent times, there has been a growing interest in corporate social responsibility (CSR) practices that focus on employees, with an increasing emphasis on investigating employees’ experiences of CSR in relation to their happiness. The purpose of this study is to explore employee-centric CSR initiatives with the aim of identifying the elements stimulating happiness at work (HAW). To accomplish this, we adopt a non-linear and data-driven approach to analyze self-reported data from 441 employees across 21 small and medium-sized enterprises spanning various industries. The analysis brings to light 5 E(lements) of employee-centric CSR: envisioning, related to personal and organizational value orientation; equity, related to definition and distribution of rewards; empowerment, related to career development and professional growth; experimentation, related to innovative tasks and organizational forms; and empathy, related to a supportive workplace and coworkers’ network. These 5 E(lements) serve as stimuli for HAW in different ways: envisioning, empowerment, and experimentation play a major role in promoting employees’ happiness and underscore the importance of initiatives related to shared values, inclusivity, and innovative work practices. Thus, this study sheds light on the influence of employee-centric CSR in promoting HAW and on effective strategies that may contribute to achieving Sustainable Development Goals targets."
-  },
-  {
-    "objectID": "research/2023_Happiness/index.html#abstract",
-    "href": "research/2023_Happiness/index.html#abstract",
-    "title": "The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation",
-    "section": "",
-    "text": "In recent times, there has been a growing interest in corporate social responsibility (CSR) practices that focus on employees, with an increasing emphasis on investigating employees’ experiences of CSR in relation to their happiness. The purpose of this study is to explore employee-centric CSR initiatives with the aim of identifying the elements stimulating happiness at work (HAW). To accomplish this, we adopt a non-linear and data-driven approach to analyze self-reported data from 441 employees across 21 small and medium-sized enterprises spanning various industries. The analysis brings to light 5 E(lements) of employee-centric CSR: envisioning, related to personal and organizational value orientation; equity, related to definition and distribution of rewards; empowerment, related to career development and professional growth; experimentation, related to innovative tasks and organizational forms; and empathy, related to a supportive workplace and coworkers’ network. These 5 E(lements) serve as stimuli for HAW in different ways: envisioning, empowerment, and experimentation play a major role in promoting employees’ happiness and underscore the importance of initiatives related to shared values, inclusivity, and innovative work practices. Thus, this study sheds light on the influence of employee-centric CSR in promoting HAW and on effective strategies that may contribute to achieving Sustainable Development Goals targets."
-  },
-  {
-    "objectID": "research/2023_Happiness/index.html#cite-as",
-    "href": "research/2023_Happiness/index.html#cite-as",
-    "title": "The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation",
-    "section": "Cite as:",
-    "text": "Cite as:\nKocollari U., Cavicchioli M. and Demaria F. (2024). The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation. Corporate Social Responsibility and Environmental Management, 31(3), 1959-1976. doi: 10.1002/csr.2667"
+    "text": "Cite as:\nKocollari, U., Cavicchioli, M., and Demaria, F. (2022). Measuring happiness at work with categorical Principal Component Analysis. In: Balzanella, A., Bini, M., Cavicchia, C., Verde, R. (eds), Book of Short Papers SIS 2022, Pearson. [ISBN: 9788891932310]"
   },
   {
     "objectID": "research/2023_SIS/index.html",
@@ -441,25 +378,109 @@
     "text": "Cite as:\nKocollari, U., Cavicchioli, M., and Demaria, F. (2023). Staying or leaving? A nonlinear framework to explore the role of employee well-being on retention. In: Chelli, F.M., Ciommi, M., Ingrassia, S., Mariani F., Recchioni, M.C. (eds), Book of Short Papers SIS 2023, Pearson. [ISBN: 9788891935618]"
   },
   {
-    "objectID": "research/2022_SIS/index.html",
-    "href": "research/2022_SIS/index.html",
-    "title": "Measuring happiness at work with categorical Principal Component Analysis",
+    "objectID": "research/2023_Happiness/index.html",
+    "href": "research/2023_Happiness/index.html",
+    "title": "The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation",
     "section": "",
-    "text": "Despite the large number of contributions on happiness at work, accurate measures are still missing. In this realm, our study investigates the influence of happiness drivers in the workplace, considering the core elements related to both hedonia and eudaimonia, on the most commonly used outcome variable in the management literature that analyses happiness, i.e., the sum of positive feelings. We first explored the drivers of happiness using categorical PCA to find the latent dimensions able to summarize original variability. Then, we analyzed their configuration within a binary regression framework to identify their relative contribution in predicting the probability of employee happiness."
+    "text": "In recent times, there has been a growing interest in corporate social responsibility (CSR) practices that focus on employees, with an increasing emphasis on investigating employees’ experiences of CSR in relation to their happiness. The purpose of this study is to explore employee-centric CSR initiatives with the aim of identifying the elements stimulating happiness at work (HAW). To accomplish this, we adopt a non-linear and data-driven approach to analyze self-reported data from 441 employees across 21 small and medium-sized enterprises spanning various industries. The analysis brings to light 5 E(lements) of employee-centric CSR: envisioning, related to personal and organizational value orientation; equity, related to definition and distribution of rewards; empowerment, related to career development and professional growth; experimentation, related to innovative tasks and organizational forms; and empathy, related to a supportive workplace and coworkers’ network. These 5 E(lements) serve as stimuli for HAW in different ways: envisioning, empowerment, and experimentation play a major role in promoting employees’ happiness and underscore the importance of initiatives related to shared values, inclusivity, and innovative work practices. Thus, this study sheds light on the influence of employee-centric CSR in promoting HAW and on effective strategies that may contribute to achieving Sustainable Development Goals targets."
   },
   {
-    "objectID": "research/2022_SIS/index.html#abstract",
-    "href": "research/2022_SIS/index.html#abstract",
-    "title": "Measuring happiness at work with categorical Principal Component Analysis",
+    "objectID": "research/2023_Happiness/index.html#abstract",
+    "href": "research/2023_Happiness/index.html#abstract",
+    "title": "The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation",
     "section": "",
-    "text": "Despite the large number of contributions on happiness at work, accurate measures are still missing. In this realm, our study investigates the influence of happiness drivers in the workplace, considering the core elements related to both hedonia and eudaimonia, on the most commonly used outcome variable in the management literature that analyses happiness, i.e., the sum of positive feelings. We first explored the drivers of happiness using categorical PCA to find the latent dimensions able to summarize original variability. Then, we analyzed their configuration within a binary regression framework to identify their relative contribution in predicting the probability of employee happiness."
+    "text": "In recent times, there has been a growing interest in corporate social responsibility (CSR) practices that focus on employees, with an increasing emphasis on investigating employees’ experiences of CSR in relation to their happiness. The purpose of this study is to explore employee-centric CSR initiatives with the aim of identifying the elements stimulating happiness at work (HAW). To accomplish this, we adopt a non-linear and data-driven approach to analyze self-reported data from 441 employees across 21 small and medium-sized enterprises spanning various industries. The analysis brings to light 5 E(lements) of employee-centric CSR: envisioning, related to personal and organizational value orientation; equity, related to definition and distribution of rewards; empowerment, related to career development and professional growth; experimentation, related to innovative tasks and organizational forms; and empathy, related to a supportive workplace and coworkers’ network. These 5 E(lements) serve as stimuli for HAW in different ways: envisioning, empowerment, and experimentation play a major role in promoting employees’ happiness and underscore the importance of initiatives related to shared values, inclusivity, and innovative work practices. Thus, this study sheds light on the influence of employee-centric CSR in promoting HAW and on effective strategies that may contribute to achieving Sustainable Development Goals targets."
   },
   {
-    "objectID": "research/2022_SIS/index.html#cite-as",
-    "href": "research/2022_SIS/index.html#cite-as",
-    "title": "Measuring happiness at work with categorical Principal Component Analysis",
+    "objectID": "research/2023_Happiness/index.html#cite-as",
+    "href": "research/2023_Happiness/index.html#cite-as",
+    "title": "The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation",
     "section": "Cite as:",
-    "text": "Cite as:\nKocollari, U., Cavicchioli, M., and Demaria, F. (2022). Measuring happiness at work with categorical Principal Component Analysis. In: Balzanella, A., Bini, M., Cavicchia, C., Verde, R. (eds), Book of Short Papers SIS 2022, Pearson. [ISBN: 9788891932310]"
+    "text": "Cite as:\nKocollari U., Cavicchioli M. and Demaria F. (2024). The 5 E(lements) of employee-centric CSR and their stimulus on Happiness At Work: an empirical investigation. Corporate Social Responsibility and Environmental Management, 31(3), 1959-1976. doi: 10.1002/csr.2667"
+  },
+  {
+    "objectID": "research/2021_Sustainability/index.html",
+    "href": "research/2021_Sustainability/index.html",
+    "title": "Technological Sustainability or Sustainable Technology? A Multidimensional Vision of Sustainability in Manufacturing",
+    "section": "",
+    "text": "The topic of sustainability is becoming one of the strongest drivers of change in the marketplace by transforming into an element of competitiveness and an integral part of business strategy. Particularly in the manufacturing sector, a key role is played by technological innovations that allow companies to minimize the impact of their business on the environment and contribute to enhancing the value of the societies in which they operate. Technological process can be a lever to generate sustainable behaviors, confirming how innovation and sustainability constitute an increasingly close pair. However, it emerges that the nature of this relationship is explored by researchers and considered by practitioners almost exclusively in terms of the degree of sustainability of technological solutions. Lacking is an in-depth exploration of how a product or process, in addition to being environmentally and socio-economically sustainable, must or can also be technologically sustainable. This research therefore aims to build a theoretical foundation for technological sustainability seen as a possible fourth dimension of sustainable development."
+  },
+  {
+    "objectID": "research/2021_Sustainability/index.html#abstract",
+    "href": "research/2021_Sustainability/index.html#abstract",
+    "title": "Technological Sustainability or Sustainable Technology? A Multidimensional Vision of Sustainability in Manufacturing",
+    "section": "",
+    "text": "The topic of sustainability is becoming one of the strongest drivers of change in the marketplace by transforming into an element of competitiveness and an integral part of business strategy. Particularly in the manufacturing sector, a key role is played by technological innovations that allow companies to minimize the impact of their business on the environment and contribute to enhancing the value of the societies in which they operate. Technological process can be a lever to generate sustainable behaviors, confirming how innovation and sustainability constitute an increasingly close pair. However, it emerges that the nature of this relationship is explored by researchers and considered by practitioners almost exclusively in terms of the degree of sustainability of technological solutions. Lacking is an in-depth exploration of how a product or process, in addition to being environmentally and socio-economically sustainable, must or can also be technologically sustainable. This research therefore aims to build a theoretical foundation for technological sustainability seen as a possible fourth dimension of sustainable development."
+  },
+  {
+    "objectID": "research/2021_Sustainability/index.html#cite-as",
+    "href": "research/2021_Sustainability/index.html#cite-as",
+    "title": "Technological Sustainability or Sustainable Technology? A Multidimensional Vision of Sustainability in Manufacturing",
+    "section": "Cite as:",
+    "text": "Cite as:\nVacchi, M., Siligardi, C., Demaria, F., Cedillo-González, E., González-Sánchez, R., and Settembre-Blundo, D. (2021). Technological Sustainability or Sustainable Technology? A Multidimensional Vision of Sustainability in Manufacturing. Sustainability, 13(17), 9942. doi: 10.3390/su13179942"
+  },
+  {
+    "objectID": "research/2025_Stress/index.html",
+    "href": "research/2025_Stress/index.html",
+    "title": "Employees’ attitudes and work-related stress in the digital workplace: an empirical investigation",
+    "section": "",
+    "text": "Introduction: In the digital era, the integration of advanced, hyper-connected technologies deeply reshaped work dynamics and organizational practices, especially through the transformation of the spatial and temporal dimensions of work. This study examines the complex relationship between digitalization and work-related stress, with a particular emphasis on the impact of both digital activities (i.e., number of actions and virtual meetings) and employees’ attitudes (i.e., job satisfaction, person-organization fit, engagement, and work-life interface) on stress levels.\nMethods: Drawing on data from Microsoft 365 activity records and an online survey of employees in an Italian AI firm, this study applies Factor Analysis and Generalized Additive Models to analyze the above-mentioned interactions in a highly digitalized context.\nResults: Findings indicate that the time–space intensification and extension of the working experience has a significant impact in terms of increasing work-related stress when exceeding certain number of off-hours digital actions and virtual meetings. Conversely, job satisfaction, perceptions of work-life enrichment and person-organization fit represent subjective employees’ attitudes that significantly influence and reduce work-related stress in a digitalized working environment.\nDiscussion: This study contributes to the existing academic literature by providing a more nuanced understanding of the dual impact of work digitalization on employees’ well-being. Furthermore, our findings offer practical insights into the management of employees and their level of stress in digital work settings."
+  },
+  {
+    "objectID": "research/2025_Stress/index.html#abstract",
+    "href": "research/2025_Stress/index.html#abstract",
+    "title": "Employees’ attitudes and work-related stress in the digital workplace: an empirical investigation",
+    "section": "",
+    "text": "Introduction: In the digital era, the integration of advanced, hyper-connected technologies deeply reshaped work dynamics and organizational practices, especially through the transformation of the spatial and temporal dimensions of work. This study examines the complex relationship between digitalization and work-related stress, with a particular emphasis on the impact of both digital activities (i.e., number of actions and virtual meetings) and employees’ attitudes (i.e., job satisfaction, person-organization fit, engagement, and work-life interface) on stress levels.\nMethods: Drawing on data from Microsoft 365 activity records and an online survey of employees in an Italian AI firm, this study applies Factor Analysis and Generalized Additive Models to analyze the above-mentioned interactions in a highly digitalized context.\nResults: Findings indicate that the time–space intensification and extension of the working experience has a significant impact in terms of increasing work-related stress when exceeding certain number of off-hours digital actions and virtual meetings. Conversely, job satisfaction, perceptions of work-life enrichment and person-organization fit represent subjective employees’ attitudes that significantly influence and reduce work-related stress in a digitalized working environment.\nDiscussion: This study contributes to the existing academic literature by providing a more nuanced understanding of the dual impact of work digitalization on employees’ well-being. Furthermore, our findings offer practical insights into the management of employees and their level of stress in digital work settings."
+  },
+  {
+    "objectID": "research/2025_Stress/index.html#cite-as",
+    "href": "research/2025_Stress/index.html#cite-as",
+    "title": "Employees’ attitudes and work-related stress in the digital workplace: an empirical investigation",
+    "section": "Cite as:",
+    "text": "Cite as:\nCavicchioli, M., Demaria, F., Nannetti, F., Scapolan, A.C., and Fabbri, T. (2025). Employees’ attitudes and work-related stress in the digital workplace: an empirical investigation. Frontiers in Psychology. 16:1546832. doi: 10.3389/fpsyg.2025.1546832"
+  },
+  {
+    "objectID": "research/2025_ICES/index.html",
+    "href": "research/2025_ICES/index.html",
+    "title": "A non-parametric approach to employee performance in digital workplaces",
+    "section": "",
+    "text": "The digital transformation has enabled the detailed and real-time datafication of work activities, allowing organizations to analyze and understand digital work performance. This study introduces a data-driven methodology that leverages an unsupervised Random Forest-based algorithm to cluster observations, identify key features using tree topology metrics, and visualize results with optimized graphical tools. We applied the proposed framework to data from a digital consulting agency, incorporating metadata from Microsoft365 and survey responses on work attitudes. The analysis produced a novel metric for digital work performance, which was linked to employee attitudes using tailored visual tools to explore the relationships between work activities and attitudes in digital workplaces."
+  },
+  {
+    "objectID": "research/2025_ICES/index.html#abstract",
+    "href": "research/2025_ICES/index.html#abstract",
+    "title": "A non-parametric approach to employee performance in digital workplaces",
+    "section": "",
+    "text": "The digital transformation has enabled the detailed and real-time datafication of work activities, allowing organizations to analyze and understand digital work performance. This study introduces a data-driven methodology that leverages an unsupervised Random Forest-based algorithm to cluster observations, identify key features using tree topology metrics, and visualize results with optimized graphical tools. We applied the proposed framework to data from a digital consulting agency, incorporating metadata from Microsoft365 and survey responses on work attitudes. The analysis produced a novel metric for digital work performance, which was linked to employee attitudes using tailored visual tools to explore the relationships between work activities and attitudes in digital workplaces."
+  },
+  {
+    "objectID": "research/2025_ICES/index.html#cite-as",
+    "href": "research/2025_ICES/index.html#cite-as",
+    "title": "A non-parametric approach to employee performance in digital workplaces",
+    "section": "Cite as:",
+    "text": "Cite as:\nDemaria, F., Cavicchioli, M., Fabbri, T., Papana Dagiasis, A., and Scapolan, A.C. (2025). A non-parametric approach to employee performance in digital workplaces. In: Castellano, R., De Luca, G., Bruno, E. (eds), Book of Short Papers 3rd Italian Conference on Economic Statistics (ICES 2025). [ISBN: 9791280655523]"
+  },
+  {
+    "objectID": "research/2024_NPO/index.html",
+    "href": "research/2024_NPO/index.html",
+    "title": "Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns",
+    "section": "",
+    "text": "Hybrid organizations require integrated models and adequate mechanisms to deal with multiple accountability demands that are able to bring a new equilibrium in the trade-offs between their social and economic purposes. Accountability is particularly relevant in the funding process where organizations’ stakeholders need to asses value-creation of both economic and social objectives. The aim of this study is to investigate how the development of hybrid accountability tools and processes in reward-based crowdfunding campaigns can foster the funding of hybrid projects and the sizing of their social mission. Explorative statistical learning methods were employed to analyse a sample of 200 hybrid projects sourced from the Indiegogo crowdfunding platform. Results identify different impacts of crowdfunding accountability mechanisms that has different effects on the success of the campaign and on the amount raised. Results contribute to the individuation of hybrid accountability models that can be used for the funding purposes of the social entrepreneurs engaged in crowdfunding campaigns. These hybridization features are crucial for the scalability of the multi-purposes’ projects addressing social problems."
+  },
+  {
+    "objectID": "research/2024_NPO/index.html#abstract",
+    "href": "research/2024_NPO/index.html#abstract",
+    "title": "Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns",
+    "section": "",
+    "text": "Hybrid organizations require integrated models and adequate mechanisms to deal with multiple accountability demands that are able to bring a new equilibrium in the trade-offs between their social and economic purposes. Accountability is particularly relevant in the funding process where organizations’ stakeholders need to asses value-creation of both economic and social objectives. The aim of this study is to investigate how the development of hybrid accountability tools and processes in reward-based crowdfunding campaigns can foster the funding of hybrid projects and the sizing of their social mission. Explorative statistical learning methods were employed to analyse a sample of 200 hybrid projects sourced from the Indiegogo crowdfunding platform. Results identify different impacts of crowdfunding accountability mechanisms that has different effects on the success of the campaign and on the amount raised. Results contribute to the individuation of hybrid accountability models that can be used for the funding purposes of the social entrepreneurs engaged in crowdfunding campaigns. These hybridization features are crucial for the scalability of the multi-purposes’ projects addressing social problems."
+  },
+  {
+    "objectID": "research/2024_NPO/index.html#cite-as",
+    "href": "research/2024_NPO/index.html#cite-as",
+    "title": "Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns",
+    "section": "Cite as:",
+    "text": "Cite as:\nKocollari, U., Montanari, S., and Demaria, F. (2024). Hybrid Models for Hybrid Projects: The Development of Accountability Tools and Processes in Crowd-funding Campaigns. In Non-Profit Organisations, Volume II: Economy, Industries and Context. Palgrave Macmillan. [ISBN: 9783031625299]"
   },
   {
     "objectID": "research/2025_IES/index.html",
@@ -655,7 +676,7 @@
     "href": "about/index.html#lately",
     "title": "Fabio Demaria",
     "section": "Lately …",
-    "text": "Lately …\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nGimme (uni)MORE data: Accept the data challenge\n\n\nPublic engagement initiative designed to bring high school students closer to the field of statistics through workshops and data challenges.\n\n\n\n\n\nNo matching items\n\nSee all →\n\n\nTeaching\n\n\n\n\n\n\n\n\n\n\nData Analytics for Management\n\n\nMaster’s degree in General Management and Consulting\n\n\n\n\n\nNo matching items\n\nSee all →\n\n\nTalks\n\n\n\n\n\n\n\n\n\n\nTalks\n\n\nLatest talks at international and national conferences, workshops, and seminars\n\n\n\n\n\nNo matching items\n\nSee all →\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\nEmployees’ well-being, work-related factors, and digitalization: a decision-tree approach for imbalanced data\n\n\n\n\n\nNo matching items\n\nSee all →"
+    "text": "Lately …\n\n\nProjects\n\n\n\n\n\n\n\n\n\n\nGimme (uni)MORE data: Accept the data challenge\n\n\nPublic engagement initiative designed to bring high school students closer to the field of statistics through workshops and data challenges.\n\n\n\n\n\nNo matching items\n\nSee all →\n\n\nTeaching\n\n\n\n\n\n\n\n\n\n\nData Analytics for Management\n\n\nMaster’s degree in General Management and Consulting\n\n\n\n\n\nNo matching items\n\nSee all →\n\n\nTalks\n\n\n\n\n\n\n\n\n\n\nTalks\n\n\nLatest talks at international and national conferences, workshops, and seminars\n\n\n\n\n\nNo matching items\n\nSee all →\n\n\nResearch\n\n\n\n\n\n\n\n\n\n\nBehind the screen: A comprehensive framework for digital work metrics and data integration\n\n\n\n\n\nNo matching items\n\nSee all →"
   },
   {
     "objectID": "teaching/slpd/index.html",
@@ -803,26 +824,5 @@
     "title": "Accessibility commitment",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nFor more on font accessibility, I recommend the talk Don’t Believe the Type! by The Readability Group.↩︎"
-  },
-  {
-    "objectID": "research/2026_Digital_work/index.html",
-    "href": "research/2026_Digital_work/index.html",
-    "title": "Behind the screen: A comprehensive framework for digital work metrics and data integration",
-    "section": "",
-    "text": "The digital transformation and the subsequent datafication of work generate rich electronic traces that can be transformed into actionable insights through modern analytics. In this context, this study proposes a data-driven framework that leverages sidClustering and unsupervised Random Forest (RF) for clustering and feature selection, constructs composite indicators via multiple aggregation strategies, and employs visual tools to enhance the interpretability of results. A key feature of the framework is the integration of two data sources: click metadata from Microsoft 365 and employee attitudes measured through a questionnaire. This integration enables the analysis of digital work behavior (DWB) in relation to employee sentiment. We apply the framework to a highly digitalized Italian consulting company. The analysis identifies two employee clusters, ‘Operational’ and ‘Coordination’, and yields two synthetic digital work metrics, work Quantity and Complexity. Overall, the study introduces a scalable methodological framework that combines tree-based learning, composite indicators, and visual tools, representing one of the first empirical integrations of digital work metadata with employee attitudes. The resulting indicators offer early-warning capabilities for assessing the impact of technology adoption on employee outcomes and provide decision support for HR analytics and policy."
-  },
-  {
-    "objectID": "research/2026_Digital_work/index.html#abstract",
-    "href": "research/2026_Digital_work/index.html#abstract",
-    "title": "Behind the screen: A comprehensive framework for digital work metrics and data integration",
-    "section": "",
-    "text": "The digital transformation and the subsequent datafication of work generate rich electronic traces that can be transformed into actionable insights through modern analytics. In this context, this study proposes a data-driven framework that leverages sidClustering and unsupervised Random Forest (RF) for clustering and feature selection, constructs composite indicators via multiple aggregation strategies, and employs visual tools to enhance the interpretability of results. A key feature of the framework is the integration of two data sources: click metadata from Microsoft 365 and employee attitudes measured through a questionnaire. This integration enables the analysis of digital work behavior (DWB) in relation to employee sentiment. We apply the framework to a highly digitalized Italian consulting company. The analysis identifies two employee clusters, ‘Operational’ and ‘Coordination’, and yields two synthetic digital work metrics, work Quantity and Complexity. Overall, the study introduces a scalable methodological framework that combines tree-based learning, composite indicators, and visual tools, representing one of the first empirical integrations of digital work metadata with employee attitudes. The resulting indicators offer early-warning capabilities for assessing the impact of technology adoption on employee outcomes and provide decision support for HR analytics and policy."
-  },
-  {
-    "objectID": "research/2026_Digital_work/index.html#cite-as",
-    "href": "research/2026_Digital_work/index.html#cite-as",
-    "title": "Behind the screen: A comprehensive framework for digital work metrics and data integration",
-    "section": "Cite as:",
-    "text": "Cite as:\nDemaria, F., Papana Dagiasis, A., Cavicchioli, M., and Fabbri, T. (2026). Behind the screen: A comprehensive framework for digital work metrics and data integration. Socio-Economic Planning Sciences. doi: 10.1016/j.seps.2026.102496."
   }
 ]

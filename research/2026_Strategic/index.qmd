@@ -1,0 +1,39 @@
+---
+title: "Strategic green supplier selection to mitigate supply chain emissions: A Sustainability multidimensional approach"
+author:
+- name: Andrea Girardi
+  orcid: 0000-0002-1589-7565
+- name: Ulpiana Kocollari
+  orcid: 0000-0003-4643-7673
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Laura Merzi
+  orcid: 0000-0003-3218-8872
+date: '2026-10-22'
+slug: supplier-sf
+image: featured.png
+categories:
+  - journals
+  - research 
+
+description: 'Sustainability indicators as preliminary screening signals for green supplier selection.'
+subtitle: Empirical study on Italian ceramic firms. Combining Disjoint PCA and GAMs, the study informs supplier screening under limited emissions data availability.
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://doi.org/10.1016/j.sftr.2026.102190
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+Companies are increasingly required to reduce emissions across their supply chains, making green supply chain management practices – such as sustainable supplier selection – crucial for improving environmental performance. However, obtaining reliable supplier-level emissions data is often costly and limited, creating the need to identify alternative, publicly available sustainability indicators that may serve as preliminary screening signals.This study addresses this gap by analysing a multidimensional dataset including economic, social, governance, and emissions metrics from 684 suppliers of an Italian ceramic company. Methodologically, the study combines a disjoint Principal Component Analysis, which extracts four conceptually distinct dimensions that jointly account for 67.4 per cent of the total variance, with a Generalized Additive Model (GAM) to examine the relationship between sustainability dimensions and emissions across different supplier sectors, allowing for a non-linear specification of the economic dimension.The findings provide novel evidence that these relationships are sector-dependent within the same supply chain. The economic dimension is associated with emissions through a non-linear form common to all sectors, and its positive association is significantly stronger among material-processing suppliers (β=2.597, p<0.01). Stronger governance is associated with lower emissions in services (β=–0.280, p<0.01), whereas social sustainability shows no significant association in logistics and an unexpected positive association in services.These results highlight that the association of ESG dimensions with emissions is not uniform but varies systematically by sector, offering more precise insights for sustainable supplier management. Overall, the study contributes to the literature by proposing a sector-sensitive analytical approach and providing actionable implications for firms facing pressure to reduce supply chain emissions under data constraints. These dimensions are proposed as first-order screening heuristics that complement, rather than replace, direct supplier-level emissions measurement.
+
+
+## Cite as:
+Girardi, A., Kocollari, U., Demaria, F., and Merzi, L. (2026). <span class="paper-title">Strategic green supplier selection to mitigate supply chain emissions: A Sustainability multidimensional approach</span>. Sustainable Futures. doi: 10.1016/j.sftr.2026.102190. 

@@ -2,7 +2,7 @@
 title: "Fabio Demaria"
 subtitle: Post-doctoral researcher and lecturer in Statistics
 image: sidebar/avatar.png
-image-alt: "Smiling man with glasses, brown eyes, and short hair and bread"
+image-alt: "Smiling man with glasses, brown eyes, and short hair and beard"
 about:
   template: trestles
   image-width: 14em
@@ -25,7 +25,7 @@ about:
       href: https://linkedin.com/in/fabio-dema
     - text: "{{< fa envelope >}}"
       aria-label: Contact
-      href: fabio.demaria@unimore.it
+      href: mailto:fabio.demaria@unimore.it
 listing:
 - id: projects
   contents: 
@@ -132,15 +132,15 @@ I previously earned a Master's degree in International Management summa cum laud
 
 I have complemented my academic training with specialized courses and international summer and winter schools focused on advanced quantitative methods and programming. These include intensive training in multilevel and structural equation modeling, as well as hands-on courses in [R](https://www.r-project.org/about.html) and [Python](https://www.python.org), attended at leading institutions such as Universitat Pompeu Fabra and KU Leuven. Together, these experiences have strengthened my methodological toolkit and my ability to apply advanced statistical techniques to complex data.
 
+I am also an active member of that community at both national and international level, as a Junior Member of the Italian Statistical Society (SIS) and of its SMEA group on Statistical Measurement for Economic Analysis, and as a member of the CMStatistics network.
+
 <ul class="fa-ul">
-<li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a href="https://www.upf.edu/web/survey/2025-summer-methods-school">RECSM Summer School – Multilevel 2</a> ∙ Universitat Pompeu Fabra, Barcelona, Spain ∙ 2022</li>
-<li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a href="https://www.upf.edu/web/survey/2025-summer-methods-school">RECSM Summer School – Introduction to R </a> ∙ Universitat Pompeu Fabra, Barcelona, Spain ∙ 2022</li>
-<li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a href="https://www.upf.edu/web/survey/2025-summer-methods-school">RECSM Summer School – Introduction to Python </a> ∙ Universitat Pompeu Fabra, Barcelona, Spain ∙ 2022</li>
-<li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a
-href="https://www.upf.edu/web/survey/winter-methods-school-2025">RECSM Winter School – Structural Equation Modelling </a> ∙ Universitat Pompeu Fabra, Barcelona, Spain ∙ 2022</li>  
-<li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a
-href="https://www.upf.edu/web/survey/winter-methods-school-2025">EPCR Winter School – Multilevel Modelling </a> ∙ KU Leuven, Leuven, Belgium ∙ 2022</li>  
+<li><span class="fa-li"><i class="fa-solid fa-certificate"></i></span><a href="https://compstat2026.org/bestpaperaward.php">ERS–IASC Young Researchers Award, COMPSTAT 2026</a> ∙ Athens University, Athens, Greece ∙ 2026</li>
+<li><span class="fa-li"><i class="fa-solid fa-people-group"></i></span><a href="https://www.sis-statistica.it/ita/1/Home">Junior Member, Italian Statistical Society (SIS)</a></li>
+<li><span class="fa-li"><i class="fa-solid fa-people-group"></i></span><a href="https://www.sis-statistica.it/ita/10061/SMEA+-+Statistical+Measurement+for+Economic+Analysis">Member, SIS Group "Statistical Measurement for Economic Analysis" (SMEA)</a></li>
+<li><span class="fa-li"><i class="fa-solid fa-people-group"></i></span><a href="https://www.cmstatistics.org">Member, CMStatistics – Network on Computational and Methodological Statistics</a></li>
 </ul>
+
 
 
 :::

@@ -1,0 +1,37 @@
+---
+title: "Estimation Methods and Empirics of Hidden Markov Switching Models with Skew-Normal Innovations"
+
+author: 
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Maddalena Cavicchioli
+  orcid: 0000-0001-7125-8111
+- name: Andrea Nigri
+  orcid: 0000-0002-2707-3678
+date: '2026-07-01'
+slug: hmm-skew-normal
+# image: featured.png
+categories:
+  - proceedings
+  - research 
+description: 'HMM with skew-normal distributions'
+subtitle: Theoretical work on hidden Markov switching models with skew-normal state-dependent distributions. This work was presented at the Scientific Meeting of the Italian Statistical Society (SIS 2026).
+links:
+  - icon: file-richtext-fill
+    name: Publication
+    url: https://doi.org/10.1007/978-3-032-30881-8_32
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+We introduce a class of univariate hidden Markov switching models with skew-normal state-dependent innovations, designed to capture regime changes and asymmetric, non-Gaussian features commonly observed in economic and financial time series. Three estimation strategies are developed: (i) exact Maximum Likelihood computed recursively through the Forward (Hamilton) algorithm, (ii) Maximum Likelihood estimation via an EM-type procedure, and (iii) a fast Likelihood-based method relying on linear approximations built from moment-matched Gaussian emissions. Under standard regularity conditions for hidden Markov models and mild additional assumptions for skew-normal distributions, we prove consistency and asymptotic normality of the resulting estimators, enabling reliable large-sample inference. The proposed framework is motivated by an application where switching dynamics and distributional asymmetry are empirically relevant.
+
+
+## Cite as:
+Demaria, F., Cavicchioli, M., Nigri, A. (2026). <span class="paper-title">Estimation Methods and Empirics of Hidden Markov Switching Models with Skew-Normal Innovations</span>. In: Martella, F., Arima, S., Marino, M.F., Mollica, C. (eds) Statistical Science: From Theory to Applied Research III. SIS-FENStatS 2026 2026. Italian Statistical Society Series on Advances in Statistics. Springer. doi: 10.1007/978-3-032-30881-8_32 [ISBN: 9783032308801]

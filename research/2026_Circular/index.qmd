@@ -1,0 +1,39 @@
+---
+title: "What it takes to be circular: A boosted trees analysis of Italian firms"
+author:
+- name: Fabio Demaria
+  orcid: 0000-0002-3686-8712
+- name: Cecilia Correggi
+  orcid: 0000-0003-3523-7123
+- name: Sara Giovanna Mauro
+  orcid: 0000-0003-4309-3625
+- name: Paolo Di Toma
+  orcid: 0000-0003-2359-2064
+date: '2026-06-01'
+slug: circularity-smea
+# image: featured.png
+categories:
+  - proceedings
+  - research 
+
+description: 'Exploring the drivers and barriers of Circular Economy'
+subtitle: Empirical study on the implementation of the circular economy in Italian micro and small enterprises (MSEs). This work was presented at the 4th International Conference on Economic Statistics (ICES 2026).
+links:
+- icon: file-richtext-fill
+  name: Publication
+  url: https://community.ict.uniba.it/comunicazionedigitale/it/fuori-collana/ices_2026_bari_book_of_short_papers-1.pdf
+# - icon: github
+#   name: Relevant files
+#   url: https://github.com/bolandlab/TBI_Definition
+# - icon: calendar-check
+#   name: Related talk
+#   url: /talk/2022-04-27-dbei-research-day/
+---
+
+## Abstract
+
+Micro and small enterprises (MSEs) are crucial to the transition toward circular business models, yet empirical evidence explaining why some adopt circular practices while others do not remains limited. Using survey data from 816 Italian firms, this study applies a data-driven statistical learning approach to investigate circular economy (CE) adoption. An XGBoost classification model with imbalance adjustment is used to identify key predictors, while nonlinear interactions between variables are examined through Friedman's H-statistic. The results show that CE adoption is not driven by individual factors, but emerges when forward-looking strategic orientation aligns with internal financial resources and structured knowledge, jointly reducing perceived implementation complexity and clarifying the role of incentives. Methodologically, the study shows how modern statistical learning techniques enable fine-grained empirical investigations of strategic change processes toward sustainability.
+
+
+## Cite as:
+Demaria, F., Correggi, C., Mauro, S.G., and Di Toma, P. (2026). <span class="paper-title">What it takes to be circular: A boosted trees analysis of Italian firms</span>. In: Nicolardi, V., Marini, C. (eds), Book of Short Papers ICES 2026 - 4th International Conference on Economic Statistics. Università degli Studi di Bari Aldo Moro. [ISBN: 9788888793740]

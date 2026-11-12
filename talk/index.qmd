@@ -21,40 +21,49 @@ resources:
 ## Conferences
 Below is a list of the talks delivered at conferences:
 
-•  SMEA2026 – 4th International Conference on Economic Statistics. University of Bari (Bari). [05/02 -- 06/02/2026]
+•  20th International Joint Conference CFE-CMStatistics 2026. HTW Berlin, University of Applied Sciences (Berlin, DE). [12/12 -- 14/12/2026]
 
-•  1st Joint International Conference of The Journal of International Accounting, Auditing & Taxation and The Journal of Management and Governance. University of Cagliari (Cagliari). [26/09 -- 27/09/2025]
+•  COMPSTAT 2026 - 27th International Conference on Computational Statistics. Athens University Law School (Athens, GR). [25/08 -- 28/08/2026]
 
-•  IES2025 – Innovation & Society: Statistics and Data Science for Evaluation and Quality. University of Padova (Bressanone, BZ). [25/06 -- 27/06/2025]
+•  SIS-FENStatS 2026 – 53rd SIS and 1st FENStatS Scientific Meetings. 
+Sapienza University of Rome (Rome, IT). [22/06 -- 25/06/2026] 
 
-•  SIS2025 – Statistics for Innovation. University of Genoa (Genoa). [16/06 -- 18/06/2025]
+•  SMEA2026 – 4th International Conference on Economic Statistics. University of Bari (Bari, IT). [05/02 -- 06/02/2026]
 
-•  ICES2025 – 3rd Italian Conference on Economic Statistics. University of Naples Parthenope (Naples). [13/02 -- 14/02/2025]
+•  1st Joint International Conference of The Journal of International Accounting, Auditing & Taxation and The Journal of Management and Governance. University of Cagliari (Cagliari, IT). [26/09 -- 27/09/2025]
+
+•  IES2025 – Innovation & Society: Statistics and Data Science for Evaluation and Quality. University of Padova (Brixen, IT). [25/06 -- 27/06/2025]
+
+•  SIS2025 – Statistics for Innovation. University of Genoa (Genoa, IT). [16/06 -- 18/06/2025]
+
+•  ICES2025 – 3rd Italian Conference on Economic Statistics. University of Naples Parthenope (Naples, IT). [13/02 -- 14/02/2025]
 
 •  18th International Joint Conference on Computational and Financial Econometrics and Computational and Methodological Statistics. King's College London (London, UK). [14/12 -- 16/12/2024]
 
-•  SIS2024 – 52nd Scientific Meeting of the Italian Statistical Society. University of Bari Aldo Moro (Bari). [17/06 -- 20/06/2024]
+•  SIS2024 – 52nd Scientific Meeting of the Italian Statistical Society. University of Bari Aldo Moro (Bari, IT). [17/06 -- 20/06/2024]
 
-•  ICES2024 – 2nd Italian Conference on Economic Statistics. University of Florence (Florence). [07/02 -- 08/02/2024]
+•  ICES2024 – 2nd Italian Conference on Economic Statistics. University of Florence (Florence, IT). [07/02 -- 08/02/2024]
 
 •  EcoMod 2023 – International Conference on Economic Modeling and Data Science. Czech University of Life Sciences (Prague, CZ). [03/07 -- 05/07/2023]
 
-•  SIS2023 – Statistical Learning, Sustainability and Impact Evaluation. Marche Polytechnic University (Ancona). [21/06 -- 23/06/2023]
+•  SIS2023 – Statistical Learning, Sustainability and Impact Evaluation. Marche Polytechnic University (Ancona, IT). [21/06 -- 23/06/2023]
 
 •  EURAM23 – Annual Conference. Trinity College Dublin (Dublin, IE). [14/06 -- 16/06/2023]
 
-•  BoMoPaV – Economics Meeting. University of Bologna (Rimini). [01/07/2022]
+•  BoMoPaV – Economics Meeting. University of Bologna (Rimini, IT). [01/07/2022]
 
-•  SIS2022 – 51st Scientific Meeting of the Italian Statistical Society. University of Campania L. Vanvitelli (Caserta). [22/06 -- 24/06/2022]
+•  SIS2022 – 51st Scientific Meeting of the Italian Statistical Society. University of Campania L. Vanvitelli (Caserta, IT). [22/06 -- 24/06/2022]
 
 
 ## Seminars and workshops
 Below is a list of the talks delivered at seminars and workshops:
 
-• DEMB Seminars. <em>"Planting FLAGs Along the Supply Chain: A Multi-Tier Decomposition Approach to Governing Sustainability Through Visibility"</em>. Department of Economics Marco Biagi, UNIMORE. [28/10/2025]
+•  Academic Talk 2026 – Young Talents in Economic Statistics. B-ASC & SIS-SMEA. University of Milano-Bicocca (Milano, IT). [21/09/2026]
 
-•  DEMB Seminars. <em>"Advances in Tree-Based Methods for Social Sciences: Insights from Organizational Data"</em>. Department of Economics Marco Biagi, UNIMORE. [04/02/2025]
+• DEMB Seminars. <em>"Planting FLAGs Along the Supply Chain: A Multi-Tier Decomposition Approach to Governing Sustainability Through Visibility"</em>. Department of Economics Marco Biagi, UNIMORE (Modena, IT). [28/10/2025]
 
-•  Sustainable Development Festival – <em>"Happiness at Work: How to measure it"</em>. Casa del Volontariato Foundation (Carpi). [22/05/2024]
+•  DEMB Seminars. <em>"Advances in Tree-Based Methods for Social Sciences: Insights from Organizational Data"</em>. Department of Economics Marco Biagi, UNIMORE (Modena, IT). [04/02/2025]
 
-•  FMB PhD Seminars. Marco Biagi Foundation (Modena). [24/03/2022]
+•  Sustainable Development Festival – <em>"Happiness at Work: How to measure it"</em>. Casa del Volontariato Foundation (Carpi, IT). [22/05/2024]
+
+•  FMB PhD Seminars. Marco Biagi Foundation (Modena, IT). [24/03/2022]

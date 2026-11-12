@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://fabiodemaria.github.io/talk/index.html</loc>
-    <lastmod>2026-02-09T17:32:28.447Z</lastmod>
+    <lastmod>2026-11-12T16:31:11.216Z</lastmod>
   </url>
   <url>
     <loc>https://fabiodemaria.github.io/license.html</loc>
@@ -18,7 +18,7 @@
   </url>
   <url>
     <loc>https://fabiodemaria.github.io/index.html</loc>
-    <lastmod>2026-06-04T09:30:01.610Z</lastmod>
+    <lastmod>2026-11-12T15:15:46.591Z</lastmod>
   </url>
   <url>
     <loc>https://fabiodemaria.github.io/projects/2023-prin-circular-economy/index.html</loc>
@@ -53,43 +53,11 @@
     <lastmod>2026-02-03T14:45:47.728Z</lastmod>
   </url>
   <url>
-    <loc>https://fabiodemaria.github.io/research/2024_SIS/index.html</loc>
-    <lastmod>2026-02-03T10:59:30.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fabiodemaria.github.io/research/2025_SIS/index.html</loc>
-    <lastmod>2026-02-03T10:59:30.589Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fabiodemaria.github.io/research/2026_Digital_work/index.html</loc>
-    <lastmod>2026-06-04T08:43:00.980Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fabiodemaria.github.io/research/2022_SIS/index.html</loc>
-    <lastmod>2026-02-03T10:59:30.582Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fabiodemaria.github.io/research/2023_SIS/index.html</loc>
+    <loc>https://fabiodemaria.github.io/research/2024_ICES/index.html</loc>
     <lastmod>2026-02-03T10:59:30.585Z</lastmod>
   </url>
   <url>
-    <loc>https://fabiodemaria.github.io/research/2023_Happiness/index.html</loc>
-    <lastmod>2026-02-03T10:59:30.585Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fabiodemaria.github.io/research/2021_Sustainability/index.html</loc>
-    <lastmod>2026-02-03T10:59:30.582Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fabiodemaria.github.io/research/2025_Stress/index.html</loc>
-    <lastmod>2026-02-03T10:59:30.590Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fabiodemaria.github.io/research/2025_ICES/index.html</loc>
-    <lastmod>2026-02-03T10:59:30.586Z</lastmod>
-  </url>
-  <url>
-    <loc>https://fabiodemaria.github.io/research/2024_NPO/index.html</loc>
+    <loc>https://fabiodemaria.github.io/research/2024_PE/index.html</loc>
     <lastmod>2026-02-03T10:59:30.586Z</lastmod>
   </url>
   <url>
@@ -97,12 +65,56 @@
     <lastmod>2026-02-03T10:59:30.586Z</lastmod>
   </url>
   <url>
-    <loc>https://fabiodemaria.github.io/research/2024_PE/index.html</loc>
+    <loc>https://fabiodemaria.github.io/research/2024_NPO/index.html</loc>
     <lastmod>2026-02-03T10:59:30.586Z</lastmod>
   </url>
   <url>
-    <loc>https://fabiodemaria.github.io/research/2024_ICES/index.html</loc>
+    <loc>https://fabiodemaria.github.io/research/2025_ICES/index.html</loc>
+    <lastmod>2026-02-03T10:59:30.586Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiodemaria.github.io/research/2023_SIS/index.html</loc>
     <lastmod>2026-02-03T10:59:30.585Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiodemaria.github.io/research/2025_Stress/index.html</loc>
+    <lastmod>2026-02-03T10:59:30.590Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiodemaria.github.io/research/2021_Sustainability/index.html</loc>
+    <lastmod>2026-02-03T10:59:30.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiodemaria.github.io/research/2023_Happiness/index.html</loc>
+    <lastmod>2026-02-03T10:59:30.585Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiodemaria.github.io/research/2026_Strategic/index.html</loc>
+    <lastmod>2026-11-12T16:17:03.273Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiodemaria.github.io/research/2026_Circular/index.html</loc>
+    <lastmod>2026-11-12T16:03:15.653Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiodemaria.github.io/research/2022_SIS/index.html</loc>
+    <lastmod>2026-02-03T10:59:30.582Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiodemaria.github.io/research/2026_Digital_work/index.html</loc>
+    <lastmod>2026-06-04T08:43:00.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiodemaria.github.io/research/2025_SIS/index.html</loc>
+    <lastmod>2026-02-03T10:59:30.589Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiodemaria.github.io/research/2024_SIS/index.html</loc>
+    <lastmod>2026-02-03T10:59:30.586Z</lastmod>
+  </url>
+  <url>
+    <loc>https://fabiodemaria.github.io/research/2026_SIS/index.html</loc>
+    <lastmod>2026-11-12T16:08:27.550Z</lastmod>
   </url>
   <url>
     <loc>https://fabiodemaria.github.io/research/2025_Wellbeing/index.html</loc>
@@ -130,7 +142,7 @@
   </url>
   <url>
     <loc>https://fabiodemaria.github.io/about/index.html</loc>
-    <lastmod>2026-02-09T17:54:35.197Z</lastmod>
+    <lastmod>2026-11-12T15:47:14.100Z</lastmod>
   </url>
   <url>
     <loc>https://fabiodemaria.github.io/teaching/slpd/index.html</loc>
